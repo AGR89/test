@@ -1,0 +1,3822 @@
+```json
+{
+  "rows" : [
+    {
+      "Player Name" : "Carmelo Anthony",
+      "Games Played" : 67,
+      "Field Goal %" : 44.9,
+      "Three Point %" : 37.9,
+      "Free Throw %" : 83,
+      "Points Per Game" : 28.7
+    },
+    {
+      "Player Name" : "Kevin Durant",
+      "Games Played" : 81,
+      "Field Goal %" : 51,
+      "Three Point %" : 41.6,
+      "Free Throw %" : 90.5,
+      "Points Per Game" : 28.1
+    },
+    {
+      "Player Name" : "Kobe Bryant",
+      "Games Played" : 78,
+      "Field Goal %" : 46.3,
+      "Three Point %" : 32.4,
+      "Free Throw %" : 83.9,
+      "Points Per Game" : 27.3
+    },
+    {
+      "Player Name" : "LeBron James",
+      "Games Played" : 76,
+      "Field Goal %" : 56.5,
+      "Three Point %" : 40.6,
+      "Free Throw %" : 75.3,
+      "Points Per Game" : 26.8
+    },
+    {
+      "Player Name" : "James Harden",
+      "Games Played" : 78,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 85.1,
+      "Points Per Game" : 25.9
+    },
+    {
+      "Player Name" : "Russell Westbrook",
+      "Games Played" : 82,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 32.3,
+      "Free Throw %" : 80,
+      "Points Per Game" : 23.2
+    },
+    {
+      "Player Name" : "Stephen Curry",
+      "Games Played" : 78,
+      "Field Goal %" : 45.1,
+      "Three Point %" : 45.3,
+      "Free Throw %" : 90,
+      "Points Per Game" : 22.9
+    },
+    {
+      "Player Name" : "Kyrie Irving",
+      "Games Played" : 59,
+      "Field Goal %" : 45.2,
+      "Three Point %" : 39.1,
+      "Free Throw %" : 85.5,
+      "Points Per Game" : 22.5
+    },
+    {
+      "Player Name" : "Dwyane Wade",
+      "Games Played" : 69,
+      "Field Goal %" : 52.1,
+      "Three Point %" : 25.8,
+      "Free Throw %" : 72.5,
+      "Points Per Game" : 21.2
+    },
+    {
+      "Player Name" : "LaMarcus Aldridge",
+      "Games Played" : 74,
+      "Field Goal %" : 48.4,
+      "Three Point %" : 14.3,
+      "Free Throw %" : 81,
+      "Points Per Game" : 21.1
+    },
+    {
+      "Player Name" : "Tony Parker",
+      "Games Played" : 66,
+      "Field Goal %" : 52.2,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 84.5,
+      "Points Per Game" : 20.3
+    },
+    {
+      "Player Name" : "Brook Lopez",
+      "Games Played" : 74,
+      "Field Goal %" : 52.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 75.8,
+      "Points Per Game" : 19.4
+    },
+    {
+      "Player Name" : "Monta Ellis",
+      "Games Played" : 82,
+      "Field Goal %" : 41.6,
+      "Three Point %" : 28.7,
+      "Free Throw %" : 77.3,
+      "Points Per Game" : 19.2
+    },
+    {
+      "Player Name" : "Damian Lillard",
+      "Games Played" : 82,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 84.4,
+      "Points Per Game" : 19
+    },
+    {
+      "Player Name" : "Deron Williams",
+      "Games Played" : 78,
+      "Field Goal %" : 44,
+      "Three Point %" : 37.8,
+      "Free Throw %" : 85.9,
+      "Points Per Game" : 18.9
+    },
+    {
+      "Player Name" : "Paul Pierce",
+      "Games Played" : 77,
+      "Field Goal %" : 43.6,
+      "Three Point %" : 38,
+      "Free Throw %" : 78.7,
+      "Points Per Game" : 18.6
+    },
+    {
+      "Player Name" : "David Lee",
+      "Games Played" : 79,
+      "Field Goal %" : 51.9,
+      "Three Point %" : 0,
+      "Free Throw %" : 79.7,
+      "Points Per Game" : 18.5
+    },
+    {
+      "Player Name" : "John Wall",
+      "Games Played" : 49,
+      "Field Goal %" : 44.1,
+      "Three Point %" : 26.7,
+      "Free Throw %" : 80.4,
+      "Points Per Game" : 18.5
+    },
+    {
+      "Player Name" : "Kevin Love",
+      "Games Played" : 18,
+      "Field Goal %" : 35.2,
+      "Three Point %" : 21.7,
+      "Free Throw %" : 70.4,
+      "Points Per Game" : 18.3
+    },
+    {
+      "Player Name" : "Rudy Gay",
+      "Games Played" : 75,
+      "Field Goal %" : 41.6,
+      "Three Point %" : 32.3,
+      "Free Throw %" : 81.4,
+      "Points Per Game" : 18.2
+    },
+    {
+      "Player Name" : "J.R. Smith",
+      "Games Played" : 80,
+      "Field Goal %" : 42.2,
+      "Three Point %" : 35.6,
+      "Free Throw %" : 76.2,
+      "Points Per Game" : 18.1
+    },
+    {
+      "Player Name" : "DeMar DeRozan",
+      "Games Played" : 82,
+      "Field Goal %" : 44.5,
+      "Three Point %" : 28.3,
+      "Free Throw %" : 83.1,
+      "Points Per Game" : 18.1
+    },
+    {
+      "Player Name" : "Blake Griffin",
+      "Games Played" : 80,
+      "Field Goal %" : 53.8,
+      "Three Point %" : 17.9,
+      "Free Throw %" : 66,
+      "Points Per Game" : 18
+    },
+    {
+      "Player Name" : "Tim Duncan",
+      "Games Played" : 69,
+      "Field Goal %" : 50.2,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 81.7,
+      "Points Per Game" : 17.8
+    },
+    {
+      "Player Name" : "Al Jefferson",
+      "Games Played" : 78,
+      "Field Goal %" : 49.4,
+      "Three Point %" : 11.8,
+      "Free Throw %" : 77,
+      "Points Per Game" : 17.8
+    },
+    {
+      "Player Name" : "Kemba Walker",
+      "Games Played" : 82,
+      "Field Goal %" : 42.3,
+      "Three Point %" : 32.2,
+      "Free Throw %" : 79.8,
+      "Points Per Game" : 17.7
+    },
+    {
+      "Player Name" : "Jrue Holiday",
+      "Games Played" : 78,
+      "Field Goal %" : 43.1,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 75.2,
+      "Points Per Game" : 17.7
+    },
+    {
+      "Player Name" : "Josh Smith",
+      "Games Played" : 76,
+      "Field Goal %" : 46.5,
+      "Three Point %" : 30.3,
+      "Free Throw %" : 51.7,
+      "Points Per Game" : 17.5
+    },
+    {
+      "Player Name" : "Brandon Jennings",
+      "Games Played" : 80,
+      "Field Goal %" : 39.9,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 81.9,
+      "Points Per Game" : 17.5
+    },
+    {
+      "Player Name" : "Al Horford",
+      "Games Played" : 74,
+      "Field Goal %" : 54.3,
+      "Three Point %" : 50,
+      "Free Throw %" : 64.4,
+      "Points Per Game" : 17.4
+    },
+    {
+      "Player Name" : "Paul George",
+      "Games Played" : 79,
+      "Field Goal %" : 41.9,
+      "Three Point %" : 36.2,
+      "Free Throw %" : 80.7,
+      "Points Per Game" : 17.4
+    },
+    {
+      "Player Name" : "Dirk Nowitzki",
+      "Games Played" : 53,
+      "Field Goal %" : 47.1,
+      "Three Point %" : 41.4,
+      "Free Throw %" : 86,
+      "Points Per Game" : 17.3
+    },
+    {
+      "Player Name" : "David West",
+      "Games Played" : 73,
+      "Field Goal %" : 49.8,
+      "Three Point %" : 21.1,
+      "Free Throw %" : 76.8,
+      "Points Per Game" : 17.1
+    },
+    {
+      "Player Name" : "Dwight Howard",
+      "Games Played" : 76,
+      "Field Goal %" : 57.8,
+      "Three Point %" : 16.7,
+      "Free Throw %" : 49.2,
+      "Points Per Game" : 17.1
+    },
+    {
+      "Player Name" : "DeMarcus Cousins",
+      "Games Played" : 75,
+      "Field Goal %" : 46.5,
+      "Three Point %" : 18.2,
+      "Free Throw %" : 73.8,
+      "Points Per Game" : 17.1
+    },
+    {
+      "Player Name" : "Eric Gordon",
+      "Games Played" : 42,
+      "Field Goal %" : 40.2,
+      "Three Point %" : 32.4,
+      "Free Throw %" : 84.2,
+      "Points Per Game" : 17
+    },
+    {
+      "Player Name" : "Chris Paul",
+      "Games Played" : 70,
+      "Field Goal %" : 48.1,
+      "Three Point %" : 32.8,
+      "Free Throw %" : 88.5,
+      "Points Per Game" : 16.9
+    },
+    {
+      "Player Name" : "Ty Lawson",
+      "Games Played" : 73,
+      "Field Goal %" : 46.1,
+      "Three Point %" : 36.6,
+      "Free Throw %" : 75.6,
+      "Points Per Game" : 16.7
+    },
+    {
+      "Player Name" : "Klay Thompson",
+      "Games Played" : 82,
+      "Field Goal %" : 42.2,
+      "Three Point %" : 40.1,
+      "Free Throw %" : 84.1,
+      "Points Per Game" : 16.6
+    },
+    {
+      "Player Name" : "Chris Bosh",
+      "Games Played" : 74,
+      "Field Goal %" : 53.5,
+      "Three Point %" : 28.4,
+      "Free Throw %" : 79.8,
+      "Points Per Game" : 16.6
+    },
+    {
+      "Player Name" : "Luol Deng",
+      "Games Played" : 75,
+      "Field Goal %" : 42.6,
+      "Three Point %" : 32.2,
+      "Free Throw %" : 81.6,
+      "Points Per Game" : 16.5
+    },
+    {
+      "Player Name" : "Jamal Crawford",
+      "Games Played" : 76,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 37.6,
+      "Free Throw %" : 87.1,
+      "Points Per Game" : 16.5
+    },
+    {
+      "Player Name" : "Arron Afflalo",
+      "Games Played" : 64,
+      "Field Goal %" : 43.9,
+      "Three Point %" : 30,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 16.5
+    },
+    {
+      "Player Name" : "Joe Johnson",
+      "Games Played" : 72,
+      "Field Goal %" : 42.3,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 82,
+      "Points Per Game" : 16.3
+    },
+    {
+      "Player Name" : "Nikola Pekovic",
+      "Games Played" : 62,
+      "Field Goal %" : 52,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 74.4,
+      "Points Per Game" : 16.3
+    },
+    {
+      "Player Name" : "Carlos Boozer",
+      "Games Played" : 79,
+      "Field Goal %" : 47.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 73.1,
+      "Points Per Game" : 16.2
+    },
+    {
+      "Player Name" : "Danilo Gallinari",
+      "Games Played" : 71,
+      "Field Goal %" : 41.8,
+      "Three Point %" : 37.3,
+      "Free Throw %" : 82.2,
+      "Points Per Game" : 16.2
+    },
+    {
+      "Player Name" : "Ryan Anderson",
+      "Games Played" : 81,
+      "Field Goal %" : 42.3,
+      "Three Point %" : 38.2,
+      "Free Throw %" : 84.4,
+      "Points Per Game" : 16.2
+    },
+    {
+      "Player Name" : "Greg Monroe",
+      "Games Played" : 81,
+      "Field Goal %" : 48.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 68.9,
+      "Points Per Game" : 16
+    },
+    {
+      "Player Name" : "Gerald Henderson",
+      "Games Played" : 68,
+      "Field Goal %" : 44.7,
+      "Three Point %" : 33,
+      "Free Throw %" : 82.4,
+      "Points Per Game" : 15.5
+    },
+    {
+      "Player Name" : "Chandler Parsons",
+      "Games Played" : 76,
+      "Field Goal %" : 48.6,
+      "Three Point %" : 38.5,
+      "Free Throw %" : 72.9,
+      "Points Per Game" : 15.5
+    },
+    {
+      "Player Name" : "Zach Randolph",
+      "Games Played" : 76,
+      "Field Goal %" : 46,
+      "Three Point %" : 8.7,
+      "Free Throw %" : 75,
+      "Points Per Game" : 15.4
+    },
+    {
+      "Player Name" : "O.J. Mayo",
+      "Games Played" : 82,
+      "Field Goal %" : 44.9,
+      "Three Point %" : 40.7,
+      "Free Throw %" : 82,
+      "Points Per Game" : 15.3
+    },
+    {
+      "Player Name" : "Tyreke Evans",
+      "Games Played" : 65,
+      "Field Goal %" : 47.8,
+      "Three Point %" : 33.8,
+      "Free Throw %" : 77.5,
+      "Points Per Game" : 15.2
+    },
+    {
+      "Player Name" : "Glen Davis",
+      "Games Played" : 34,
+      "Field Goal %" : 44.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 71.8,
+      "Points Per Game" : 15.1
+    },
+    {
+      "Player Name" : "Kevin Garnett",
+      "Games Played" : 68,
+      "Field Goal %" : 49.6,
+      "Three Point %" : 12.5,
+      "Free Throw %" : 78.6,
+      "Points Per Game" : 14.8
+    },
+    {
+      "Player Name" : "Thaddeus Young",
+      "Games Played" : 76,
+      "Field Goal %" : 53.1,
+      "Three Point %" : 12.5,
+      "Free Throw %" : 57.4,
+      "Points Per Game" : 14.8
+    },
+    {
+      "Player Name" : "Wesley Matthews",
+      "Games Played" : 69,
+      "Field Goal %" : 43.6,
+      "Three Point %" : 39.8,
+      "Free Throw %" : 79.7,
+      "Points Per Game" : 14.8
+    },
+    {
+      "Player Name" : "Dion Waiters",
+      "Games Played" : 61,
+      "Field Goal %" : 41.2,
+      "Three Point %" : 31,
+      "Free Throw %" : 74.6,
+      "Points Per Game" : 14.7
+    },
+    {
+      "Player Name" : "Jameer Nelson",
+      "Games Played" : 56,
+      "Field Goal %" : 39.2,
+      "Three Point %" : 34.1,
+      "Free Throw %" : 87.3,
+      "Points Per Game" : 14.7
+    },
+    {
+      "Player Name" : "Goran Dragic",
+      "Games Played" : 77,
+      "Field Goal %" : 44.3,
+      "Three Point %" : 31.9,
+      "Free Throw %" : 74.8,
+      "Points Per Game" : 14.7
+    },
+    {
+      "Player Name" : "Jeff Teague",
+      "Games Played" : 80,
+      "Field Goal %" : 45.1,
+      "Three Point %" : 35.9,
+      "Free Throw %" : 88.1,
+      "Points Per Game" : 14.6
+    },
+    {
+      "Player Name" : "Mike Conley",
+      "Games Played" : 80,
+      "Field Goal %" : 44,
+      "Three Point %" : 36.2,
+      "Free Throw %" : 83,
+      "Points Per Game" : 14.6
+    },
+    {
+      "Player Name" : "Paul Millsap",
+      "Games Played" : 78,
+      "Field Goal %" : 49,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 74.2,
+      "Points Per Game" : 14.6
+    },
+    {
+      "Player Name" : "Ramon Sessions",
+      "Games Played" : 61,
+      "Field Goal %" : 40.8,
+      "Three Point %" : 30.8,
+      "Free Throw %" : 83.9,
+      "Points Per Game" : 14.4
+    },
+    {
+      "Player Name" : "Nicolas Batum",
+      "Games Played" : 73,
+      "Field Goal %" : 42.3,
+      "Three Point %" : 37.2,
+      "Free Throw %" : 84.8,
+      "Points Per Game" : 14.3
+    },
+    {
+      "Player Name" : "George Hill",
+      "Games Played" : 76,
+      "Field Goal %" : 44.3,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 81.7,
+      "Points Per Game" : 14.2
+    },
+    {
+      "Player Name" : "Amar'e Stoudemire",
+      "Games Played" : 29,
+      "Field Goal %" : 57.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 80.8,
+      "Points Per Game" : 14.2
+    },
+    {
+      "Player Name" : "Lou Williams",
+      "Games Played" : 39,
+      "Field Goal %" : 42.2,
+      "Three Point %" : 36.7,
+      "Free Throw %" : 86.8,
+      "Points Per Game" : 14.1
+    },
+    {
+      "Player Name" : "Anderson Varejao",
+      "Games Played" : 25,
+      "Field Goal %" : 47.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 75.5,
+      "Points Per Game" : 14.1
+    },
+    {
+      "Player Name" : "Marc Gasol",
+      "Games Played" : 80,
+      "Field Goal %" : 49.4,
+      "Three Point %" : 7.1,
+      "Free Throw %" : 84.8,
+      "Points Per Game" : 14.1
+    },
+    {
+      "Player Name" : "J.J. Redick",
+      "Games Played" : 78,
+      "Field Goal %" : 43.4,
+      "Three Point %" : 36.6,
+      "Free Throw %" : 90,
+      "Points Per Game" : 14.1
+    },
+    {
+      "Player Name" : "Gordon Hayward",
+      "Games Played" : 72,
+      "Field Goal %" : 43.5,
+      "Three Point %" : 41.5,
+      "Free Throw %" : 82.7,
+      "Points Per Game" : 14.1
+    },
+    {
+      "Player Name" : "Kevin Martin",
+      "Games Played" : 77,
+      "Field Goal %" : 45,
+      "Three Point %" : 42.6,
+      "Free Throw %" : 89,
+      "Points Per Game" : 14
+    },
+    {
+      "Player Name" : "Greivis Vasquez",
+      "Games Played" : 78,
+      "Field Goal %" : 43.3,
+      "Three Point %" : 34.2,
+      "Free Throw %" : 80.5,
+      "Points Per Game" : 13.9
+    },
+    {
+      "Player Name" : "Raymond Felton",
+      "Games Played" : 68,
+      "Field Goal %" : 42.7,
+      "Three Point %" : 36,
+      "Free Throw %" : 78.9,
+      "Points Per Game" : 13.9
+    },
+    {
+      "Player Name" : "Isaiah Thomas",
+      "Games Played" : 79,
+      "Field Goal %" : 44,
+      "Three Point %" : 35.8,
+      "Free Throw %" : 88.2,
+      "Points Per Game" : 13.9
+    },
+    {
+      "Player Name" : "Bradley Beal",
+      "Games Played" : 56,
+      "Field Goal %" : 41,
+      "Three Point %" : 38.6,
+      "Free Throw %" : 78.6,
+      "Points Per Game" : 13.9
+    },
+    {
+      "Player Name" : "Rajon Rondo",
+      "Games Played" : 38,
+      "Field Goal %" : 48.4,
+      "Three Point %" : 24,
+      "Free Throw %" : 64.5,
+      "Points Per Game" : 13.7
+    },
+    {
+      "Player Name" : "Pau Gasol",
+      "Games Played" : 49,
+      "Field Goal %" : 46.6,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 70.2,
+      "Points Per Game" : 13.7
+    },
+    {
+      "Player Name" : "Anthony Davis",
+      "Games Played" : 64,
+      "Field Goal %" : 51.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 75.1,
+      "Points Per Game" : 13.5
+    },
+    {
+      "Player Name" : "Vince Carter",
+      "Games Played" : 81,
+      "Field Goal %" : 43.5,
+      "Three Point %" : 40.6,
+      "Free Throw %" : 81.6,
+      "Points Per Game" : 13.4
+    },
+    {
+      "Player Name" : "Jeremy Lin",
+      "Games Played" : 82,
+      "Field Goal %" : 44.1,
+      "Three Point %" : 33.9,
+      "Free Throw %" : 78.5,
+      "Points Per Game" : 13.4
+    },
+    {
+      "Player Name" : "Brandon Knight",
+      "Games Played" : 75,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 36.7,
+      "Free Throw %" : 73.3,
+      "Points Per Game" : 13.3
+    },
+    {
+      "Player Name" : "Evan Turner",
+      "Games Played" : 82,
+      "Field Goal %" : 41.9,
+      "Three Point %" : 36.5,
+      "Free Throw %" : 74,
+      "Points Per Game" : 13.3
+    },
+    {
+      "Player Name" : "Ersan Ilyasova",
+      "Games Played" : 73,
+      "Field Goal %" : 46.2,
+      "Three Point %" : 44.4,
+      "Free Throw %" : 79.6,
+      "Points Per Game" : 13.2
+    },
+    {
+      "Player Name" : "Serge Ibaka",
+      "Games Played" : 80,
+      "Field Goal %" : 57.3,
+      "Three Point %" : 35.1,
+      "Free Throw %" : 74.9,
+      "Points Per Game" : 13.2
+    },
+    {
+      "Player Name" : "Nate Robinson",
+      "Games Played" : 82,
+      "Field Goal %" : 43.3,
+      "Three Point %" : 40.5,
+      "Free Throw %" : 79.9,
+      "Points Per Game" : 13.1
+    },
+    {
+      "Player Name" : "Nikola Vucevic",
+      "Games Played" : 77,
+      "Field Goal %" : 51.9,
+      "Three Point %" : 0,
+      "Free Throw %" : 68.3,
+      "Points Per Game" : 13.1
+    },
+    {
+      "Player Name" : "Wilson Chandler",
+      "Games Played" : 43,
+      "Field Goal %" : 46.2,
+      "Three Point %" : 41.3,
+      "Free Throw %" : 79.3,
+      "Points Per Game" : 13
+    },
+    {
+      "Player Name" : "Andre Iguodala",
+      "Games Played" : 80,
+      "Field Goal %" : 45.1,
+      "Three Point %" : 31.7,
+      "Free Throw %" : 57.4,
+      "Points Per Game" : 13
+    },
+    {
+      "Player Name" : "Jarrett Jack",
+      "Games Played" : 79,
+      "Field Goal %" : 45.2,
+      "Three Point %" : 40.4,
+      "Free Throw %" : 84.3,
+      "Points Per Game" : 12.9
+    },
+    {
+      "Player Name" : "Mo Williams",
+      "Games Played" : 46,
+      "Field Goal %" : 43,
+      "Three Point %" : 38.3,
+      "Free Throw %" : 88.2,
+      "Points Per Game" : 12.9
+    },
+    {
+      "Player Name" : "Jeff Green",
+      "Games Played" : 81,
+      "Field Goal %" : 46.7,
+      "Three Point %" : 38.5,
+      "Free Throw %" : 80.8,
+      "Points Per Game" : 12.8
+    },
+    {
+      "Player Name" : "Luis Scola",
+      "Games Played" : 82,
+      "Field Goal %" : 47.3,
+      "Three Point %" : 18.8,
+      "Free Throw %" : 78.7,
+      "Points Per Game" : 12.8
+    },
+    {
+      "Player Name" : "Steve Nash",
+      "Games Played" : 50,
+      "Field Goal %" : 49.7,
+      "Three Point %" : 43.8,
+      "Free Throw %" : 92.2,
+      "Points Per Game" : 12.7
+    },
+    {
+      "Player Name" : "J.J. Hickson",
+      "Games Played" : 80,
+      "Field Goal %" : 56.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 67.9,
+      "Points Per Game" : 12.7
+    },
+    {
+      "Player Name" : "Marcus Thornton",
+      "Games Played" : 72,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 37.2,
+      "Free Throw %" : 88.1,
+      "Points Per Game" : 12.7
+    },
+    {
+      "Player Name" : "Andrea Bargnani",
+      "Games Played" : 35,
+      "Field Goal %" : 39.9,
+      "Three Point %" : 30.9,
+      "Free Throw %" : 84.4,
+      "Points Per Game" : 12.7
+    },
+    {
+      "Player Name" : "Nene Hilario",
+      "Games Played" : 61,
+      "Field Goal %" : 48,
+      "Three Point %" : 0,
+      "Free Throw %" : 72.9,
+      "Points Per Game" : 12.6
+    },
+    {
+      "Player Name" : "Metta World Peace",
+      "Games Played" : 75,
+      "Field Goal %" : 40.3,
+      "Three Point %" : 34.2,
+      "Free Throw %" : 73.4,
+      "Points Per Game" : 12.4
+    },
+    {
+      "Player Name" : "Andrei Kirilenko",
+      "Games Played" : 64,
+      "Field Goal %" : 50.7,
+      "Three Point %" : 29.2,
+      "Free Throw %" : 75.2,
+      "Points Per Game" : 12.4
+    },
+    {
+      "Player Name" : "Shawn Marion",
+      "Games Played" : 67,
+      "Field Goal %" : 51.4,
+      "Three Point %" : 31.5,
+      "Free Throw %" : 78.2,
+      "Points Per Game" : 12.1
+    },
+    {
+      "Player Name" : "Corey Brewer",
+      "Games Played" : 82,
+      "Field Goal %" : 42.5,
+      "Three Point %" : 29.6,
+      "Free Throw %" : 69,
+      "Points Per Game" : 12.1
+    },
+    {
+      "Player Name" : "Darren Collison",
+      "Games Played" : 81,
+      "Field Goal %" : 47.1,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 88,
+      "Points Per Game" : 12
+    },
+    {
+      "Player Name" : "Derrick Williams",
+      "Games Played" : 78,
+      "Field Goal %" : 43,
+      "Three Point %" : 33.2,
+      "Free Throw %" : 70.6,
+      "Points Per Game" : 12
+    },
+    {
+      "Player Name" : "Joakim Noah",
+      "Games Played" : 66,
+      "Field Goal %" : 48.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 75.1,
+      "Points Per Game" : 11.9
+    },
+    {
+      "Player Name" : "Roy Hibbert",
+      "Games Played" : 79,
+      "Field Goal %" : 44.8,
+      "Three Point %" : 25,
+      "Free Throw %" : 74.1,
+      "Points Per Game" : 11.9
+    },
+    {
+      "Player Name" : "Kawhi Leonard",
+      "Games Played" : 58,
+      "Field Goal %" : 49.4,
+      "Three Point %" : 37.4,
+      "Free Throw %" : 82.5,
+      "Points Per Game" : 11.9
+    },
+    {
+      "Player Name" : "Manu Ginobili",
+      "Games Played" : 60,
+      "Field Goal %" : 42.5,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 79.6,
+      "Points Per Game" : 11.8
+    },
+    {
+      "Player Name" : "Tristan Thompson",
+      "Games Played" : 82,
+      "Field Goal %" : 48.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 60.8,
+      "Points Per Game" : 11.7
+    },
+    {
+      "Player Name" : "Jordan Crawford",
+      "Games Played" : 70,
+      "Field Goal %" : 41.5,
+      "Three Point %" : 33.7,
+      "Free Throw %" : 81.1,
+      "Points Per Game" : 11.6
+    },
+    {
+      "Player Name" : "Kyle Lowry",
+      "Games Played" : 68,
+      "Field Goal %" : 40.1,
+      "Three Point %" : 36.2,
+      "Free Throw %" : 79.5,
+      "Points Per Game" : 11.6
+    },
+    {
+      "Player Name" : "Kenneth Faried",
+      "Games Played" : 80,
+      "Field Goal %" : 55.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 61.3,
+      "Points Per Game" : 11.5
+    },
+    {
+      "Player Name" : "Rodney Stuckey",
+      "Games Played" : 76,
+      "Field Goal %" : 40.6,
+      "Three Point %" : 30.2,
+      "Free Throw %" : 78.3,
+      "Points Per Game" : 11.5
+    },
+    {
+      "Player Name" : "Luke Ridnour",
+      "Games Played" : 82,
+      "Field Goal %" : 45.3,
+      "Three Point %" : 31.1,
+      "Free Throw %" : 84.8,
+      "Points Per Game" : 11.5
+    },
+    {
+      "Player Name" : "Martell Webster",
+      "Games Played" : 76,
+      "Field Goal %" : 44.2,
+      "Three Point %" : 42.2,
+      "Free Throw %" : 84.8,
+      "Points Per Game" : 11.4
+    },
+    {
+      "Player Name" : "Jose Calderon",
+      "Games Played" : 73,
+      "Field Goal %" : 49.1,
+      "Three Point %" : 46.1,
+      "Free Throw %" : 90,
+      "Points Per Game" : 11.3
+    },
+    {
+      "Player Name" : "J.J. Barea",
+      "Games Played" : 74,
+      "Field Goal %" : 41.7,
+      "Three Point %" : 34.6,
+      "Free Throw %" : 78.4,
+      "Points Per Game" : 11.3
+    },
+    {
+      "Player Name" : "Robin Lopez",
+      "Games Played" : 82,
+      "Field Goal %" : 53.4,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 77.8,
+      "Points Per Game" : 11.3
+    },
+    {
+      "Player Name" : "Ben Gordon",
+      "Games Played" : 75,
+      "Field Goal %" : 40.8,
+      "Three Point %" : 38.7,
+      "Free Throw %" : 84.3,
+      "Points Per Game" : 11.2
+    },
+    {
+      "Player Name" : "C.J. Miles",
+      "Games Played" : 65,
+      "Field Goal %" : 41.5,
+      "Three Point %" : 38.4,
+      "Free Throw %" : 86.9,
+      "Points Per Game" : 11.2
+    },
+    {
+      "Player Name" : "Marcin Gortat",
+      "Games Played" : 61,
+      "Field Goal %" : 52.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 65.2,
+      "Points Per Game" : 11.1
+    },
+    {
+      "Player Name" : "Tobias Harris",
+      "Games Played" : 55,
+      "Field Goal %" : 45.5,
+      "Three Point %" : 31.5,
+      "Free Throw %" : 75.2,
+      "Points Per Game" : 11
+    },
+    {
+      "Player Name" : "Spencer Hawes",
+      "Games Played" : 82,
+      "Field Goal %" : 46.4,
+      "Three Point %" : 35.6,
+      "Free Throw %" : 77.7,
+      "Points Per Game" : 11
+    },
+    {
+      "Player Name" : "Kyle Korver",
+      "Games Played" : 74,
+      "Field Goal %" : 46.1,
+      "Three Point %" : 45.7,
+      "Free Throw %" : 85.9,
+      "Points Per Game" : 10.9
+    },
+    {
+      "Player Name" : "Ray Allen",
+      "Games Played" : 79,
+      "Field Goal %" : 44.9,
+      "Three Point %" : 41.9,
+      "Free Throw %" : 88.6,
+      "Points Per Game" : 10.9
+    },
+    {
+      "Player Name" : "Jared Dudley",
+      "Games Played" : 79,
+      "Field Goal %" : 46.8,
+      "Three Point %" : 39.1,
+      "Free Throw %" : 79.6,
+      "Points Per Game" : 10.9
+    },
+    {
+      "Player Name" : "Jason Thompson",
+      "Games Played" : 82,
+      "Field Goal %" : 50.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 69.4,
+      "Points Per Game" : 10.9
+    },
+    {
+      "Player Name" : "Carl Landry",
+      "Games Played" : 81,
+      "Field Goal %" : 54,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 81.7,
+      "Points Per Game" : 10.8
+    },
+    {
+      "Player Name" : "Randy Foye",
+      "Games Played" : 82,
+      "Field Goal %" : 39.7,
+      "Three Point %" : 41,
+      "Free Throw %" : 81.9,
+      "Points Per Game" : 10.8
+    },
+    {
+      "Player Name" : "Ricky Rubio",
+      "Games Played" : 57,
+      "Field Goal %" : 36,
+      "Three Point %" : 29.3,
+      "Free Throw %" : 79.9,
+      "Points Per Game" : 10.7
+    },
+    {
+      "Player Name" : "Alan Anderson",
+      "Games Played" : 65,
+      "Field Goal %" : 38.3,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 10.7
+    },
+    {
+      "Player Name" : "Byron Mullens",
+      "Games Played" : 53,
+      "Field Goal %" : 38.5,
+      "Three Point %" : 31.7,
+      "Free Throw %" : 64.6,
+      "Points Per Game" : 10.6
+    },
+    {
+      "Player Name" : "Carlos Delfino",
+      "Games Played" : 67,
+      "Field Goal %" : 40.5,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 10.6
+    },
+    {
+      "Player Name" : "Nick Young",
+      "Games Played" : 59,
+      "Field Goal %" : 41.3,
+      "Three Point %" : 35.7,
+      "Free Throw %" : 82,
+      "Points Per Game" : 10.6
+    },
+    {
+      "Player Name" : "Chris Kaman",
+      "Games Played" : 66,
+      "Field Goal %" : 50.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 78.8,
+      "Points Per Game" : 10.5
+    },
+    {
+      "Player Name" : "Mike Dunleavy",
+      "Games Played" : 75,
+      "Field Goal %" : 44.2,
+      "Three Point %" : 42.8,
+      "Free Throw %" : 82,
+      "Points Per Game" : 10.5
+    },
+    {
+      "Player Name" : "Jason Richardson",
+      "Games Played" : 33,
+      "Field Goal %" : 40.2,
+      "Three Point %" : 34.1,
+      "Free Throw %" : 60.6,
+      "Points Per Game" : 10.5
+    },
+    {
+      "Player Name" : "Shannon Brown",
+      "Games Played" : 59,
+      "Field Goal %" : 42,
+      "Three Point %" : 27.7,
+      "Free Throw %" : 78.4,
+      "Points Per Game" : 10.5
+    },
+    {
+      "Player Name" : "Danny Green",
+      "Games Played" : 80,
+      "Field Goal %" : 44.8,
+      "Three Point %" : 42.9,
+      "Free Throw %" : 84.8,
+      "Points Per Game" : 10.5
+    },
+    {
+      "Player Name" : "Caron Butler",
+      "Games Played" : 78,
+      "Field Goal %" : 42.4,
+      "Three Point %" : 38.8,
+      "Free Throw %" : 83.3,
+      "Points Per Game" : 10.4
+    },
+    {
+      "Player Name" : "Tayshaun Prince",
+      "Games Played" : 82,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 40.4,
+      "Free Throw %" : 73.8,
+      "Points Per Game" : 10.4
+    },
+    {
+      "Player Name" : "Tyson Chandler",
+      "Games Played" : 66,
+      "Field Goal %" : 63.8,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 69.4,
+      "Points Per Game" : 10.4
+    },
+    {
+      "Player Name" : "Patrick Patterson",
+      "Games Played" : 71,
+      "Field Goal %" : 51.2,
+      "Three Point %" : 38.6,
+      "Free Throw %" : 76.2,
+      "Points Per Game" : 10.4
+    },
+    {
+      "Player Name" : "Andray Blatche",
+      "Games Played" : 82,
+      "Field Goal %" : 51.2,
+      "Three Point %" : 13.6,
+      "Free Throw %" : 68.5,
+      "Points Per Game" : 10.3
+    },
+    {
+      "Player Name" : "Alonzo Gee",
+      "Games Played" : 82,
+      "Field Goal %" : 41,
+      "Three Point %" : 31.5,
+      "Free Throw %" : 79.5,
+      "Points Per Game" : 10.3
+    },
+    {
+      "Player Name" : "Matt Barnes",
+      "Games Played" : 80,
+      "Field Goal %" : 46.2,
+      "Three Point %" : 34.2,
+      "Free Throw %" : 74.4,
+      "Points Per Game" : 10.3
+    },
+    {
+      "Player Name" : "Tiago Splitter",
+      "Games Played" : 81,
+      "Field Goal %" : 56,
+      "Three Point %" : 0,
+      "Free Throw %" : 73,
+      "Points Per Game" : 10.3
+    },
+    {
+      "Player Name" : "Jason Terry",
+      "Games Played" : 79,
+      "Field Goal %" : 43.4,
+      "Three Point %" : 37.2,
+      "Free Throw %" : 87,
+      "Points Per Game" : 10.1
+    },
+    {
+      "Player Name" : "Omer Asik",
+      "Games Played" : 82,
+      "Field Goal %" : 54.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 56.2,
+      "Points Per Game" : 10.1
+    },
+    {
+      "Player Name" : "Michael Beasley",
+      "Games Played" : 75,
+      "Field Goal %" : 40.5,
+      "Three Point %" : 31.3,
+      "Free Throw %" : 74.6,
+      "Points Per Game" : 10.1
+    },
+    {
+      "Player Name" : "Amir Johnson",
+      "Games Played" : 81,
+      "Field Goal %" : 55.4,
+      "Three Point %" : 38.5,
+      "Free Throw %" : 72.7,
+      "Points Per Game" : 10
+    },
+    {
+      "Player Name" : "Devin Harris",
+      "Games Played" : 58,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 33.5,
+      "Free Throw %" : 72.7,
+      "Points Per Game" : 9.9
+    },
+    {
+      "Player Name" : "Richard Hamilton",
+      "Games Played" : 50,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 30.8,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 9.8
+    },
+    {
+      "Player Name" : "Will Bynum",
+      "Games Played" : 65,
+      "Field Goal %" : 46.9,
+      "Three Point %" : 31.6,
+      "Free Throw %" : 80.9,
+      "Points Per Game" : 9.8
+    },
+    {
+      "Player Name" : "Larry Sanders",
+      "Games Played" : 71,
+      "Field Goal %" : 50.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 61.8,
+      "Points Per Game" : 9.8
+    },
+    {
+      "Player Name" : "Emeka Okafor",
+      "Games Played" : 79,
+      "Field Goal %" : 47.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 57.1,
+      "Points Per Game" : 9.7
+    },
+    {
+      "Player Name" : "Marco Belinelli",
+      "Games Played" : 73,
+      "Field Goal %" : 39.5,
+      "Three Point %" : 35.7,
+      "Free Throw %" : 83.9,
+      "Points Per Game" : 9.6
+    },
+    {
+      "Player Name" : "Andre Miller",
+      "Games Played" : 82,
+      "Field Goal %" : 47.9,
+      "Three Point %" : 26.6,
+      "Free Throw %" : 84,
+      "Points Per Game" : 9.6
+    },
+    {
+      "Player Name" : "Gary Neal",
+      "Games Played" : 68,
+      "Field Goal %" : 41.2,
+      "Three Point %" : 35.5,
+      "Free Throw %" : 86.5,
+      "Points Per Game" : 9.5
+    },
+    {
+      "Player Name" : "Trevor Ariza",
+      "Games Played" : 56,
+      "Field Goal %" : 41.7,
+      "Three Point %" : 36.4,
+      "Free Throw %" : 82.1,
+      "Points Per Game" : 9.5
+    },
+    {
+      "Player Name" : "Antawn Jamison",
+      "Games Played" : 76,
+      "Field Goal %" : 46.4,
+      "Three Point %" : 36.1,
+      "Free Throw %" : 69.1,
+      "Points Per Game" : 9.4
+    },
+    {
+      "Player Name" : "Chase Budinger",
+      "Games Played" : 23,
+      "Field Goal %" : 41.4,
+      "Three Point %" : 32.1,
+      "Free Throw %" : 76.2,
+      "Points Per Game" : 9.4
+    },
+    {
+      "Player Name" : "Derrick Favors",
+      "Games Played" : 77,
+      "Field Goal %" : 48.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 68.8,
+      "Points Per Game" : 9.4
+    },
+    {
+      "Player Name" : "Avery Bradley",
+      "Games Played" : 50,
+      "Field Goal %" : 40.2,
+      "Three Point %" : 31.7,
+      "Free Throw %" : 75.5,
+      "Points Per Game" : 9.2
+    },
+    {
+      "Player Name" : "Harrison Barnes",
+      "Games Played" : 81,
+      "Field Goal %" : 43.9,
+      "Three Point %" : 35.9,
+      "Free Throw %" : 75.8,
+      "Points Per Game" : 9.2
+    },
+    {
+      "Player Name" : "Dorell Wright",
+      "Games Played" : 79,
+      "Field Goal %" : 39.6,
+      "Three Point %" : 37.4,
+      "Free Throw %" : 85.1,
+      "Points Per Game" : 9.2
+    },
+    {
+      "Player Name" : "JaVale McGee",
+      "Games Played" : 79,
+      "Field Goal %" : 57.5,
+      "Three Point %" : 100,
+      "Free Throw %" : 59.1,
+      "Points Per Game" : 9.1
+    },
+    {
+      "Player Name" : "Kevin Seraphin",
+      "Games Played" : 79,
+      "Field Goal %" : 46.1,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 69.3,
+      "Points Per Game" : 9.1
+    },
+    {
+      "Player Name" : "Michael Kidd-Gilchrist",
+      "Games Played" : 78,
+      "Field Goal %" : 45.8,
+      "Three Point %" : 22.2,
+      "Free Throw %" : 74.9,
+      "Points Per Game" : 9
+    },
+    {
+      "Player Name" : "Tony Allen",
+      "Games Played" : 79,
+      "Field Goal %" : 44.5,
+      "Three Point %" : 12.5,
+      "Free Throw %" : 71.7,
+      "Points Per Game" : 8.9
+    },
+    {
+      "Player Name" : "Jonas Valanciunas",
+      "Games Played" : 62,
+      "Field Goal %" : 55.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 78.9,
+      "Points Per Game" : 8.9
+    },
+    {
+      "Player Name" : "Kyle Singler",
+      "Games Played" : 82,
+      "Field Goal %" : 42.8,
+      "Three Point %" : 35,
+      "Free Throw %" : 80.6,
+      "Points Per Game" : 8.8
+    },
+    {
+      "Player Name" : "Lance Stephenson",
+      "Games Played" : 78,
+      "Field Goal %" : 46,
+      "Three Point %" : 33,
+      "Free Throw %" : 65.2,
+      "Points Per Game" : 8.8
+    },
+    {
+      "Player Name" : "DeAndre Jordan",
+      "Games Played" : 82,
+      "Field Goal %" : 64.3,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 38.6,
+      "Points Per Game" : 8.8
+    },
+    {
+      "Player Name" : "John Salmons",
+      "Games Played" : 76,
+      "Field Goal %" : 39.9,
+      "Three Point %" : 37.1,
+      "Free Throw %" : 77.3,
+      "Points Per Game" : 8.8
+    },
+    {
+      "Player Name" : "Brandon Bass",
+      "Games Played" : 81,
+      "Field Goal %" : 48.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 86,
+      "Points Per Game" : 8.7
+    },
+    {
+      "Player Name" : "Jerryd Bayless",
+      "Games Played" : 80,
+      "Field Goal %" : 41.9,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 83.6,
+      "Points Per Game" : 8.7
+    },
+    {
+      "Player Name" : "Dante Cunningham",
+      "Games Played" : 80,
+      "Field Goal %" : 46.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 65,
+      "Points Per Game" : 8.7
+    },
+    {
+      "Player Name" : "Chris Copeland",
+      "Games Played" : 56,
+      "Field Goal %" : 47.9,
+      "Three Point %" : 42.1,
+      "Free Throw %" : 75.9,
+      "Points Per Game" : 8.7
+    },
+    {
+      "Player Name" : "Jimmy Butler",
+      "Games Played" : 82,
+      "Field Goal %" : 46.7,
+      "Three Point %" : 38.1,
+      "Free Throw %" : 80.3,
+      "Points Per Game" : 8.6
+    },
+    {
+      "Player Name" : "Mario Chalmers",
+      "Games Played" : 77,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 40.9,
+      "Free Throw %" : 79.5,
+      "Points Per Game" : 8.6
+    },
+    {
+      "Player Name" : "Alexey Shved",
+      "Games Played" : 77,
+      "Field Goal %" : 37.2,
+      "Three Point %" : 29.5,
+      "Free Throw %" : 72,
+      "Points Per Game" : 8.6
+    },
+    {
+      "Player Name" : "Brandan Wright",
+      "Games Played" : 64,
+      "Field Goal %" : 59.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 61.5,
+      "Points Per Game" : 8.5
+    },
+    {
+      "Player Name" : "Eric Bledsoe",
+      "Games Played" : 76,
+      "Field Goal %" : 44.5,
+      "Three Point %" : 39.7,
+      "Free Throw %" : 79.1,
+      "Points Per Game" : 8.5
+    },
+    {
+      "Player Name" : "Chauncey Billups",
+      "Games Played" : 22,
+      "Field Goal %" : 40.2,
+      "Three Point %" : 36.7,
+      "Free Throw %" : 93.8,
+      "Points Per Game" : 8.4
+    },
+    {
+      "Player Name" : "Marreese Speights",
+      "Games Played" : 79,
+      "Field Goal %" : 44.5,
+      "Three Point %" : 30,
+      "Free Throw %" : 77.1,
+      "Points Per Game" : 8.3
+    },
+    {
+      "Player Name" : "Jermaine O'Neal",
+      "Games Played" : 55,
+      "Field Goal %" : 48.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 83.5,
+      "Points Per Game" : 8.3
+    },
+    {
+      "Player Name" : "Jason Smith",
+      "Games Played" : 51,
+      "Field Goal %" : 49,
+      "Three Point %" : 0,
+      "Free Throw %" : 84.3,
+      "Points Per Game" : 8.2
+    },
+    {
+      "Player Name" : "Beno Udrih",
+      "Games Played" : 66,
+      "Field Goal %" : 44.1,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 81.6,
+      "Points Per Game" : 8.2
+    },
+    {
+      "Player Name" : "Maurice Harkless",
+      "Games Played" : 76,
+      "Field Goal %" : 46.1,
+      "Three Point %" : 27.4,
+      "Free Throw %" : 57,
+      "Points Per Game" : 8.2
+    },
+    {
+      "Player Name" : "Markieff Morris",
+      "Games Played" : 82,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 33.6,
+      "Free Throw %" : 73.2,
+      "Points Per Game" : 8.2
+    },
+    {
+      "Player Name" : "Taj Gibson",
+      "Games Played" : 65,
+      "Field Goal %" : 48.5,
+      "Three Point %" : 0,
+      "Free Throw %" : 67.9,
+      "Points Per Game" : 8
+    },
+    {
+      "Player Name" : "Kosta Koufos",
+      "Games Played" : 81,
+      "Field Goal %" : 58.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 55.8,
+      "Points Per Game" : 8
+    },
+    {
+      "Player Name" : "Wes Johnson",
+      "Games Played" : 50,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 32.3,
+      "Free Throw %" : 77.1,
+      "Points Per Game" : 8
+    },
+    {
+      "Player Name" : "Wayne Ellington",
+      "Games Played" : 78,
+      "Field Goal %" : 42.7,
+      "Three Point %" : 39.2,
+      "Free Throw %" : 90.7,
+      "Points Per Game" : 7.9
+    },
+    {
+      "Player Name" : "Tyler Zeller",
+      "Games Played" : 77,
+      "Field Goal %" : 43.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 76.4,
+      "Points Per Game" : 7.9
+    },
+    {
+      "Player Name" : "Andre Drummond",
+      "Games Played" : 60,
+      "Field Goal %" : 60.8,
+      "Three Point %" : 50,
+      "Free Throw %" : 37.1,
+      "Points Per Game" : 7.9
+    },
+    {
+      "Player Name" : "Jodie Meeks",
+      "Games Played" : 78,
+      "Field Goal %" : 38.7,
+      "Three Point %" : 35.7,
+      "Free Throw %" : 89.6,
+      "Points Per Game" : 7.9
+    },
+    {
+      "Player Name" : "Courtney Lee",
+      "Games Played" : 78,
+      "Field Goal %" : 46.4,
+      "Three Point %" : 37.2,
+      "Free Throw %" : 86.1,
+      "Points Per Game" : 7.8
+    },
+    {
+      "Player Name" : "E'Twaun Moore",
+      "Games Played" : 75,
+      "Field Goal %" : 39.6,
+      "Three Point %" : 34,
+      "Free Throw %" : 79.7,
+      "Points Per Game" : 7.8
+    },
+    {
+      "Player Name" : "Andrew Nicholson",
+      "Games Played" : 75,
+      "Field Goal %" : 52.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 79.8,
+      "Points Per Game" : 7.8
+    },
+    {
+      "Player Name" : "Gerald Wallace",
+      "Games Played" : 69,
+      "Field Goal %" : 39.7,
+      "Three Point %" : 28.2,
+      "Free Throw %" : 63.7,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "Kirk Hinrich",
+      "Games Played" : 60,
+      "Field Goal %" : 37.7,
+      "Three Point %" : 39,
+      "Free Throw %" : 71.4,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "Jonas Jerebko",
+      "Games Played" : 49,
+      "Field Goal %" : 44.9,
+      "Three Point %" : 30.1,
+      "Free Throw %" : 77.3,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "Ed Davis",
+      "Games Played" : 81,
+      "Field Goal %" : 53.9,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 61.7,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "Marcus Morris",
+      "Games Played" : 77,
+      "Field Goal %" : 42.2,
+      "Three Point %" : 36.9,
+      "Free Throw %" : 56.4,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "A.J. Price",
+      "Games Played" : 57,
+      "Field Goal %" : 39,
+      "Three Point %" : 35,
+      "Free Throw %" : 79,
+      "Points Per Game" : 7.7
+    },
+    {
+      "Player Name" : "Thabo Sefolosha",
+      "Games Played" : 81,
+      "Field Goal %" : 48.1,
+      "Three Point %" : 41.9,
+      "Free Throw %" : 82.6,
+      "Points Per Game" : 7.6
+    },
+    {
+      "Player Name" : "Toney Douglas",
+      "Games Played" : 71,
+      "Field Goal %" : 40.3,
+      "Three Point %" : 38,
+      "Free Throw %" : 90.5,
+      "Points Per Game" : 7.5
+    },
+    {
+      "Player Name" : "Linas Kleiza",
+      "Games Played" : 20,
+      "Field Goal %" : 33.3,
+      "Three Point %" : 30.3,
+      "Free Throw %" : 84.2,
+      "Points Per Game" : 7.4
+    },
+    {
+      "Player Name" : "Steve Blake",
+      "Games Played" : 45,
+      "Field Goal %" : 42.2,
+      "Three Point %" : 42.1,
+      "Free Throw %" : 77.1,
+      "Points Per Game" : 7.3
+    },
+    {
+      "Player Name" : "Earl Clark",
+      "Games Played" : 59,
+      "Field Goal %" : 44,
+      "Three Point %" : 33.7,
+      "Free Throw %" : 69.7,
+      "Points Per Game" : 7.3
+    },
+    {
+      "Player Name" : "Al-Farouq Aminu",
+      "Games Played" : 76,
+      "Field Goal %" : 47.5,
+      "Three Point %" : 21.1,
+      "Free Throw %" : 73.7,
+      "Points Per Game" : 7.3
+    },
+    {
+      "Player Name" : "Elton Brand",
+      "Games Played" : 72,
+      "Field Goal %" : 47.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 71,
+      "Points Per Game" : 7.2
+    },
+    {
+      "Player Name" : "Kenyon Martin",
+      "Games Played" : 18,
+      "Field Goal %" : 60.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 42.5,
+      "Points Per Game" : 7.2
+    },
+    {
+      "Player Name" : "Jimmer Fredette",
+      "Games Played" : 69,
+      "Field Goal %" : 42.1,
+      "Three Point %" : 41.7,
+      "Free Throw %" : 85.9,
+      "Points Per Game" : 7.2
+    },
+    {
+      "Player Name" : "Marvin Williams",
+      "Games Played" : 73,
+      "Field Goal %" : 42.3,
+      "Three Point %" : 32.5,
+      "Free Throw %" : 77.8,
+      "Points Per Game" : 7.2
+    },
+    {
+      "Player Name" : "Enes Kanter",
+      "Games Played" : 70,
+      "Field Goal %" : 54.4,
+      "Three Point %" : 100,
+      "Free Throw %" : 79.5,
+      "Points Per Game" : 7.2
+    },
+    {
+      "Player Name" : "Aaron Brooks",
+      "Games Played" : 53,
+      "Field Goal %" : 45.3,
+      "Three Point %" : 37.3,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 7.1
+    },
+    {
+      "Player Name" : "Brian Roberts",
+      "Games Played" : 78,
+      "Field Goal %" : 41.7,
+      "Three Point %" : 38.6,
+      "Free Throw %" : 90.9,
+      "Points Per Game" : 7.1
+    },
+    {
+      "Player Name" : "Brandon Rush",
+      "Games Played" : 2,
+      "Field Goal %" : 66.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 7
+    },
+    {
+      "Player Name" : "Gerald Green",
+      "Games Played" : 60,
+      "Field Goal %" : 36.6,
+      "Three Point %" : 31.4,
+      "Free Throw %" : 80,
+      "Points Per Game" : 7
+    },
+    {
+      "Player Name" : "Tyler Hansbrough",
+      "Games Played" : 81,
+      "Field Goal %" : 43.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 72,
+      "Points Per Game" : 7
+    },
+    {
+      "Player Name" : "Rasheed Wallace",
+      "Games Played" : 21,
+      "Field Goal %" : 38.7,
+      "Three Point %" : 31.9,
+      "Free Throw %" : 70,
+      "Points Per Game" : 7
+    },
+    {
+      "Player Name" : "Alec Burks",
+      "Games Played" : 64,
+      "Field Goal %" : 42,
+      "Three Point %" : 35.9,
+      "Free Throw %" : 71.3,
+      "Points Per Game" : 7
+    },
+    {
+      "Player Name" : "Hakim Warrick",
+      "Games Played" : 28,
+      "Field Goal %" : 40.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 68.2,
+      "Points Per Game" : 6.9
+    },
+    {
+      "Player Name" : "Jason Maxiell",
+      "Games Played" : 72,
+      "Field Goal %" : 44.6,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 62.1,
+      "Points Per Game" : 6.9
+    },
+    {
+      "Player Name" : "C.J. Watson",
+      "Games Played" : 80,
+      "Field Goal %" : 41.8,
+      "Three Point %" : 41.1,
+      "Free Throw %" : 78,
+      "Points Per Game" : 6.8
+    },
+    {
+      "Player Name" : "Charlie Villanueva",
+      "Games Played" : 69,
+      "Field Goal %" : 37.7,
+      "Three Point %" : 34.7,
+      "Free Throw %" : 55.1,
+      "Points Per Game" : 6.8
+    },
+    {
+      "Player Name" : "Iman Shumpert",
+      "Games Played" : 45,
+      "Field Goal %" : 39.6,
+      "Three Point %" : 40.2,
+      "Free Throw %" : 76.6,
+      "Points Per Game" : 6.8
+    },
+    {
+      "Player Name" : "Jeremy Pargo",
+      "Games Played" : 39,
+      "Field Goal %" : 39.6,
+      "Three Point %" : 33.8,
+      "Free Throw %" : 67.7,
+      "Points Per Game" : 6.8
+    },
+    {
+      "Player Name" : "Jordan Hill",
+      "Games Played" : 29,
+      "Field Goal %" : 49.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 65.6,
+      "Points Per Game" : 6.7
+    },
+    {
+      "Player Name" : "Luc Richard Mbah a Moute",
+      "Games Played" : 58,
+      "Field Goal %" : 40.1,
+      "Three Point %" : 35.1,
+      "Free Throw %" : 57.1,
+      "Points Per Game" : 6.7
+    },
+    {
+      "Player Name" : "Samuel Dalembert",
+      "Games Played" : 47,
+      "Field Goal %" : 54.2,
+      "Three Point %" : 100,
+      "Free Throw %" : 69.1,
+      "Points Per Game" : 6.7
+    },
+    {
+      "Player Name" : "Josh Howard",
+      "Games Played" : 11,
+      "Field Goal %" : 40.3,
+      "Three Point %" : 31.3,
+      "Free Throw %" : 58.3,
+      "Points Per Game" : 6.7
+    },
+    {
+      "Player Name" : "Ivan Johnson",
+      "Games Played" : 69,
+      "Field Goal %" : 52,
+      "Three Point %" : 7.7,
+      "Free Throw %" : 61.8,
+      "Points Per Game" : 6.6
+    },
+    {
+      "Player Name" : "Shane Battier",
+      "Games Played" : 72,
+      "Field Goal %" : 42,
+      "Three Point %" : 43,
+      "Free Throw %" : 84.2,
+      "Points Per Game" : 6.6
+    },
+    {
+      "Player Name" : "Steve Novak",
+      "Games Played" : 81,
+      "Field Goal %" : 41.4,
+      "Three Point %" : 42.5,
+      "Free Throw %" : 90.9,
+      "Points Per Game" : 6.6
+    },
+    {
+      "Player Name" : "Cartier Martin",
+      "Games Played" : 41,
+      "Field Goal %" : 38.1,
+      "Three Point %" : 39.7,
+      "Free Throw %" : 71.4,
+      "Points Per Game" : 6.6
+    },
+    {
+      "Player Name" : "Jannero Pargo",
+      "Games Played" : 32,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 33.6,
+      "Free Throw %" : 92.3,
+      "Points Per Game" : 6.5
+    },
+    {
+      "Player Name" : "Quincy Pondexter",
+      "Games Played" : 59,
+      "Field Goal %" : 42.8,
+      "Three Point %" : 39.5,
+      "Free Throw %" : 78.7,
+      "Points Per Game" : 6.4
+    },
+    {
+      "Player Name" : "Damien Wilkins",
+      "Games Played" : 61,
+      "Field Goal %" : 45.9,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 74.3,
+      "Points Per Game" : 6.4
+    },
+    {
+      "Player Name" : "P.J. Tucker",
+      "Games Played" : 79,
+      "Field Goal %" : 47.3,
+      "Three Point %" : 31.4,
+      "Free Throw %" : 74.4,
+      "Points Per Game" : 6.4
+    },
+    {
+      "Player Name" : "Terrence Ross",
+      "Games Played" : 73,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 33.2,
+      "Free Throw %" : 71.4,
+      "Points Per Game" : 6.4
+    },
+    {
+      "Player Name" : "Shaun Livingston",
+      "Games Played" : 66,
+      "Field Goal %" : 48,
+      "Three Point %" : 0,
+      "Free Throw %" : 86.7,
+      "Points Per Game" : 6.3
+    },
+    {
+      "Player Name" : "Willie Green",
+      "Games Played" : 72,
+      "Field Goal %" : 46.1,
+      "Three Point %" : 42.8,
+      "Free Throw %" : 71.9,
+      "Points Per Game" : 6.3
+    },
+    {
+      "Player Name" : "Austin Rivers",
+      "Games Played" : 61,
+      "Field Goal %" : 37.2,
+      "Three Point %" : 32.6,
+      "Free Throw %" : 54.6,
+      "Points Per Game" : 6.2
+    },
+    {
+      "Player Name" : "Stephen Jackson",
+      "Games Played" : 55,
+      "Field Goal %" : 37.3,
+      "Three Point %" : 27.1,
+      "Free Throw %" : 70,
+      "Points Per Game" : 6.2
+    },
+    {
+      "Player Name" : "John Jenkins",
+      "Games Played" : 61,
+      "Field Goal %" : 44.6,
+      "Three Point %" : 38.4,
+      "Free Throw %" : 84.3,
+      "Points Per Game" : 6.1
+    },
+    {
+      "Player Name" : "Jeffery Taylor",
+      "Games Played" : 77,
+      "Field Goal %" : 43.1,
+      "Three Point %" : 34.4,
+      "Free Throw %" : 72.8,
+      "Points Per Game" : 6.1
+    },
+    {
+      "Player Name" : "Mike James",
+      "Games Played" : 45,
+      "Field Goal %" : 37.3,
+      "Three Point %" : 38.4,
+      "Free Throw %" : 79.3,
+      "Points Per Game" : 6.1
+    },
+    {
+      "Player Name" : "Khris Middleton",
+      "Games Played" : 27,
+      "Field Goal %" : 44,
+      "Three Point %" : 31.1,
+      "Free Throw %" : 84.4,
+      "Points Per Game" : 6.1
+    },
+    {
+      "Player Name" : "Darrell Arthur",
+      "Games Played" : 59,
+      "Field Goal %" : 45.1,
+      "Three Point %" : 27.8,
+      "Free Throw %" : 71.7,
+      "Points Per Game" : 6.1
+    },
+    {
+      "Player Name" : "Jared Sullinger",
+      "Games Played" : 45,
+      "Field Goal %" : 49.3,
+      "Three Point %" : 20,
+      "Free Throw %" : 74.6,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "Josh McRoberts",
+      "Games Played" : 67,
+      "Field Goal %" : 45.5,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 76.5,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "Greg Smith",
+      "Games Played" : 70,
+      "Field Goal %" : 62,
+      "Three Point %" : 0,
+      "Free Throw %" : 62.3,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "John Henson",
+      "Games Played" : 63,
+      "Field Goal %" : 48.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 53.3,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "Jason Kidd",
+      "Games Played" : 76,
+      "Field Goal %" : 37.2,
+      "Three Point %" : 35.1,
+      "Free Throw %" : 83.3,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "DeMarre Carroll",
+      "Games Played" : 66,
+      "Field Goal %" : 46,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 76.5,
+      "Points Per Game" : 6
+    },
+    {
+      "Player Name" : "Zaza Pachulia",
+      "Games Played" : 52,
+      "Field Goal %" : 47.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 75.7,
+      "Points Per Game" : 5.9
+    },
+    {
+      "Player Name" : "Kris Humphries",
+      "Games Played" : 65,
+      "Field Goal %" : 44.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 78.9,
+      "Points Per Game" : 5.8
+    },
+    {
+      "Player Name" : "Andrew Bogut",
+      "Games Played" : 32,
+      "Field Goal %" : 45.1,
+      "Three Point %" : 100,
+      "Free Throw %" : 50,
+      "Points Per Game" : 5.8
+    },
+    {
+      "Player Name" : "Brandon Roy",
+      "Games Played" : 5,
+      "Field Goal %" : 31.4,
+      "Three Point %" : 0,
+      "Free Throw %" : 70,
+      "Points Per Game" : 5.8
+    },
+    {
+      "Player Name" : "Lavoy Allen",
+      "Games Played" : 79,
+      "Field Goal %" : 45.4,
+      "Three Point %" : 0,
+      "Free Throw %" : 71.7,
+      "Points Per Game" : 5.8
+    },
+    {
+      "Player Name" : "Boris Diaw",
+      "Games Played" : 75,
+      "Field Goal %" : 53.9,
+      "Three Point %" : 38.5,
+      "Free Throw %" : 72.3,
+      "Points Per Game" : 5.8
+    },
+    {
+      "Player Name" : "Donatas Motiejunas",
+      "Games Played" : 44,
+      "Field Goal %" : 45.5,
+      "Three Point %" : 28.9,
+      "Free Throw %" : 62.7,
+      "Points Per Game" : 5.7
+    },
+    {
+      "Player Name" : "Patrick Beverley",
+      "Games Played" : 41,
+      "Field Goal %" : 41.8,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 82.9,
+      "Points Per Game" : 5.6
+    },
+    {
+      "Player Name" : "Norris Cole",
+      "Games Played" : 80,
+      "Field Goal %" : 42.1,
+      "Three Point %" : 35.7,
+      "Free Throw %" : 65,
+      "Points Per Game" : 5.6
+    },
+    {
+      "Player Name" : "Sebastian Telfair",
+      "Games Played" : 59,
+      "Field Goal %" : 36.2,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 78.3,
+      "Points Per Game" : 5.6
+    },
+    {
+      "Player Name" : "Francisco Garcia",
+      "Games Played" : 58,
+      "Field Goal %" : 39.3,
+      "Three Point %" : 37.4,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 5.5
+    },
+    {
+      "Player Name" : "Terrence Jones",
+      "Games Played" : 19,
+      "Field Goal %" : 45.7,
+      "Three Point %" : 26.3,
+      "Free Throw %" : 76.5,
+      "Points Per Game" : 5.5
+    },
+    {
+      "Player Name" : "Marquis Daniels",
+      "Games Played" : 59,
+      "Field Goal %" : 37.6,
+      "Three Point %" : 27.8,
+      "Free Throw %" : 74.1,
+      "Points Per Game" : 5.5
+    },
+    {
+      "Player Name" : "Meyers Leonard",
+      "Games Played" : 69,
+      "Field Goal %" : 54.5,
+      "Three Point %" : 42.9,
+      "Free Throw %" : 80.9,
+      "Points Per Game" : 5.5
+    },
+    {
+      "Player Name" : "MarShon Brooks",
+      "Games Played" : 73,
+      "Field Goal %" : 46.3,
+      "Three Point %" : 27.3,
+      "Free Throw %" : 73.4,
+      "Points Per Game" : 5.4
+    },
+    {
+      "Player Name" : "Daniel Gibson",
+      "Games Played" : 46,
+      "Field Goal %" : 34,
+      "Three Point %" : 34.4,
+      "Free Throw %" : 70.3,
+      "Points Per Game" : 5.4
+    },
+    {
+      "Player Name" : "Danny Granger",
+      "Games Played" : 5,
+      "Field Goal %" : 28.6,
+      "Three Point %" : 20,
+      "Free Throw %" : 62.5,
+      "Points Per Game" : 5.4
+    },
+    {
+      "Player Name" : "DeJuan Blair",
+      "Games Played" : 61,
+      "Field Goal %" : 52.4,
+      "Three Point %" : 0,
+      "Free Throw %" : 62.9,
+      "Points Per Game" : 5.4
+    },
+    {
+      "Player Name" : "Evan Fournier",
+      "Games Played" : 38,
+      "Field Goal %" : 49.3,
+      "Three Point %" : 40.7,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Corey Maggette",
+      "Games Played" : 18,
+      "Field Goal %" : 35.5,
+      "Three Point %" : 23.8,
+      "Free Throw %" : 75,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Roger Mason",
+      "Games Played" : 69,
+      "Field Goal %" : 43.3,
+      "Three Point %" : 41.5,
+      "Free Throw %" : 90.7,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Reggie Jackson",
+      "Games Played" : 70,
+      "Field Goal %" : 45.8,
+      "Three Point %" : 23.1,
+      "Free Throw %" : 83.9,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Derek Fisher",
+      "Games Played" : 33,
+      "Field Goal %" : 34.2,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 92.1,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Travis Outlaw",
+      "Games Played" : 38,
+      "Field Goal %" : 41.8,
+      "Three Point %" : 28,
+      "Free Throw %" : 73.1,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "John Lucas",
+      "Games Played" : 63,
+      "Field Goal %" : 38.6,
+      "Three Point %" : 37.7,
+      "Free Throw %" : 72,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Mickael Pietrus",
+      "Games Played" : 19,
+      "Field Goal %" : 34.7,
+      "Three Point %" : 31.3,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Trevor Booker",
+      "Games Played" : 48,
+      "Field Goal %" : 49.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 55.6,
+      "Points Per Game" : 5.3
+    },
+    {
+      "Player Name" : "Leandro Barbosa",
+      "Games Played" : 41,
+      "Field Goal %" : 43,
+      "Three Point %" : 38.3,
+      "Free Throw %" : 75.6,
+      "Points Per Game" : 5.2
+    },
+    {
+      "Player Name" : "Jordan Hamilton",
+      "Games Played" : 40,
+      "Field Goal %" : 41.8,
+      "Three Point %" : 37,
+      "Free Throw %" : 50,
+      "Points Per Game" : 5.2
+    },
+    {
+      "Player Name" : "Rashard Lewis",
+      "Games Played" : 55,
+      "Field Goal %" : 41.4,
+      "Three Point %" : 38.9,
+      "Free Throw %" : 62.2,
+      "Points Per Game" : 5.2
+    },
+    {
+      "Player Name" : "DeShawn Stevenson",
+      "Games Played" : 56,
+      "Field Goal %" : 37.4,
+      "Three Point %" : 36.4,
+      "Free Throw %" : 52.2,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "Nick Collison",
+      "Games Played" : 81,
+      "Field Goal %" : 59.5,
+      "Three Point %" : 0,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "Al Harrington",
+      "Games Played" : 10,
+      "Field Goal %" : 35.1,
+      "Three Point %" : 26.7,
+      "Free Throw %" : 75,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "James Johnson",
+      "Games Played" : 54,
+      "Field Goal %" : 41.3,
+      "Three Point %" : 9.5,
+      "Free Throw %" : 59.7,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "Patrick Mills",
+      "Games Played" : 58,
+      "Field Goal %" : 46.9,
+      "Three Point %" : 40,
+      "Free Throw %" : 84.2,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "Garrett Temple",
+      "Games Played" : 51,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 32.5,
+      "Free Throw %" : 70.3,
+      "Points Per Game" : 5.1
+    },
+    {
+      "Player Name" : "Jae Crowder",
+      "Games Played" : 78,
+      "Field Goal %" : 38.4,
+      "Three Point %" : 32.8,
+      "Free Throw %" : 64.4,
+      "Points Per Game" : 5
+    },
+    {
+      "Player Name" : "Ian Mahinmi",
+      "Games Played" : 80,
+      "Field Goal %" : 45.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 60.8,
+      "Points Per Game" : 5
+    },
+    {
+      "Player Name" : "Mickael Gelabale",
+      "Games Played" : 36,
+      "Field Goal %" : 51.8,
+      "Three Point %" : 30.8,
+      "Free Throw %" : 87.5,
+      "Points Per Game" : 5
+    },
+    {
+      "Player Name" : "Quentin Richardson",
+      "Games Played" : 1,
+      "Field Goal %" : 9.1,
+      "Three Point %" : 25,
+      "Free Throw %" : 100,
+      "Points Per Game" : 5
+    },
+    {
+      "Player Name" : "Jerry Stackhouse",
+      "Games Played" : 37,
+      "Field Goal %" : 38.4,
+      "Three Point %" : 33.7,
+      "Free Throw %" : 87,
+      "Points Per Game" : 4.9
+    },
+    {
+      "Player Name" : "Chris Andersen",
+      "Games Played" : 42,
+      "Field Goal %" : 57.7,
+      "Three Point %" : 66.7,
+      "Free Throw %" : 67.7,
+      "Points Per Game" : 4.9
+    },
+    {
+      "Player Name" : "Malcolm Lee",
+      "Games Played" : 16,
+      "Field Goal %" : 38.2,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 60,
+      "Points Per Game" : 4.9
+    },
+    {
+      "Player Name" : "Bismack Biyombo",
+      "Games Played" : 80,
+      "Field Goal %" : 45.1,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 52.1,
+      "Points Per Game" : 4.8
+    },
+    {
+      "Player Name" : "Tyrus Thomas",
+      "Games Played" : 26,
+      "Field Goal %" : 35.3,
+      "Three Point %" : 37.5,
+      "Free Throw %" : 83.9,
+      "Points Per Game" : 4.8
+    },
+    {
+      "Player Name" : "Thomas Robinson",
+      "Games Played" : 70,
+      "Field Goal %" : 43,
+      "Three Point %" : 0,
+      "Free Throw %" : 52.3,
+      "Points Per Game" : 4.8
+    },
+    {
+      "Player Name" : "Mike Miller",
+      "Games Played" : 59,
+      "Field Goal %" : 43.3,
+      "Three Point %" : 41.7,
+      "Free Throw %" : 72.7,
+      "Points Per Game" : 4.8
+    },
+    {
+      "Player Name" : "D.J. Augustin",
+      "Games Played" : 76,
+      "Field Goal %" : 35,
+      "Three Point %" : 35.3,
+      "Free Throw %" : 83.8,
+      "Points Per Game" : 4.7
+    },
+    {
+      "Player Name" : "Justin Holiday",
+      "Games Played" : 9,
+      "Field Goal %" : 33.3,
+      "Three Point %" : 25,
+      "Free Throw %" : 75,
+      "Points Per Game" : 4.7
+    },
+    {
+      "Player Name" : "Landry Fields",
+      "Games Played" : 51,
+      "Field Goal %" : 45.7,
+      "Three Point %" : 14.3,
+      "Free Throw %" : 64.2,
+      "Points Per Game" : 4.7
+    },
+    {
+      "Player Name" : "Shelvin Mack",
+      "Games Played" : 31,
+      "Field Goal %" : 46,
+      "Three Point %" : 36.7,
+      "Free Throw %" : 56.3,
+      "Points Per Game" : 4.6
+    },
+    {
+      "Player Name" : "Mike Scott",
+      "Games Played" : 40,
+      "Field Goal %" : 47.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 76.8,
+      "Points Per Game" : 4.6
+    },
+    {
+      "Player Name" : "Terrence Williams",
+      "Games Played" : 24,
+      "Field Goal %" : 49.5,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 42.9,
+      "Points Per Game" : 4.6
+    },
+    {
+      "Player Name" : "Troy Murphy",
+      "Games Played" : 14,
+      "Field Goal %" : 36.1,
+      "Three Point %" : 31.4,
+      "Free Throw %" : 90.9,
+      "Points Per Game" : 4.6
+    },
+    {
+      "Player Name" : "Reggie Evans",
+      "Games Played" : 80,
+      "Field Goal %" : 47.9,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 50.9,
+      "Points Per Game" : 4.5
+    },
+    {
+      "Player Name" : "Eddy Curry",
+      "Games Played" : 2,
+      "Field Goal %" : 50,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 25,
+      "Points Per Game" : 4.5
+    },
+    {
+      "Player Name" : "Austin Daye",
+      "Games Played" : 55,
+      "Field Goal %" : 43.3,
+      "Three Point %" : 41.8,
+      "Free Throw %" : 76.5,
+      "Points Per Game" : 4.5
+    },
+    {
+      "Player Name" : "Eric Maynor",
+      "Games Played" : 64,
+      "Field Goal %" : 37.7,
+      "Three Point %" : 35.4,
+      "Free Throw %" : 72.6,
+      "Points Per Game" : 4.5
+    },
+    {
+      "Player Name" : "Cory Joseph",
+      "Games Played" : 28,
+      "Field Goal %" : 46.4,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 4.5
+    },
+    {
+      "Player Name" : "Keyon Dooling",
+      "Games Played" : 7,
+      "Field Goal %" : 47.6,
+      "Three Point %" : 41.7,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 4.4
+    },
+    {
+      "Player Name" : "Ekpe Udoh",
+      "Games Played" : 76,
+      "Field Goal %" : 43.5,
+      "Three Point %" : 0,
+      "Free Throw %" : 74.8,
+      "Points Per Game" : 4.3
+    },
+    {
+      "Player Name" : "Keith Bogans",
+      "Games Played" : 74,
+      "Field Goal %" : 38,
+      "Three Point %" : 34.3,
+      "Free Throw %" : 64.7,
+      "Points Per Game" : 4.2
+    },
+    {
+      "Player Name" : "Chris Wilcox",
+      "Games Played" : 61,
+      "Field Goal %" : 71.9,
+      "Three Point %" : 0,
+      "Free Throw %" : 67.2,
+      "Points Per Game" : 4.2
+    },
+    {
+      "Player Name" : "Shavlik Randolph",
+      "Games Played" : 16,
+      "Field Goal %" : 58.3,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 40.7,
+      "Points Per Game" : 4.2
+    },
+    {
+      "Player Name" : "Kendrick Perkins",
+      "Games Played" : 78,
+      "Field Goal %" : 45.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 61.1,
+      "Points Per Game" : 4.2
+    },
+    {
+      "Player Name" : "Matt Bonner",
+      "Games Played" : 68,
+      "Field Goal %" : 48.7,
+      "Three Point %" : 44.2,
+      "Free Throw %" : 73.3,
+      "Points Per Game" : 4.2
+    },
+    {
+      "Player Name" : "Anthony Tolliver",
+      "Games Played" : 62,
+      "Field Goal %" : 38,
+      "Three Point %" : 33.8,
+      "Free Throw %" : 86.3,
+      "Points Per Game" : 4.1
+    },
+    {
+      "Player Name" : "Kyle O'Quinn",
+      "Games Played" : 57,
+      "Field Goal %" : 51.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 4.1
+    },
+    {
+      "Player Name" : "Chris Singleton",
+      "Games Played" : 57,
+      "Field Goal %" : 38.2,
+      "Three Point %" : 19.4,
+      "Free Throw %" : 57.1,
+      "Points Per Game" : 4.1
+    },
+    {
+      "Player Name" : "Jeff Adrien",
+      "Games Played" : 52,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 0,
+      "Free Throw %" : 65,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Omri Casspi",
+      "Games Played" : 43,
+      "Field Goal %" : 39.4,
+      "Three Point %" : 32.9,
+      "Free Throw %" : 53.7,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Rodrigue Beaubois",
+      "Games Played" : 45,
+      "Field Goal %" : 36.9,
+      "Three Point %" : 29.2,
+      "Free Throw %" : 78.9,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Dominique Jones",
+      "Games Played" : 29,
+      "Field Goal %" : 36.7,
+      "Three Point %" : 11.1,
+      "Free Throw %" : 66,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Anthony Morrow",
+      "Games Played" : 41,
+      "Field Goal %" : 44.1,
+      "Three Point %" : 37.2,
+      "Free Throw %" : 90.9,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Orlando Johnson",
+      "Games Played" : 51,
+      "Field Goal %" : 40,
+      "Three Point %" : 38.3,
+      "Free Throw %" : 71.9,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Lamar Odom",
+      "Games Played" : 82,
+      "Field Goal %" : 39.9,
+      "Three Point %" : 20,
+      "Free Throw %" : 47.6,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Darius Morris",
+      "Games Played" : 48,
+      "Field Goal %" : 38.8,
+      "Three Point %" : 36.4,
+      "Free Throw %" : 64.9,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Greg Stiemsma",
+      "Games Played" : 76,
+      "Field Goal %" : 45.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 76.8,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Will Barton",
+      "Games Played" : 73,
+      "Field Goal %" : 38.2,
+      "Three Point %" : 13.8,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Quincy Acy",
+      "Games Played" : 29,
+      "Field Goal %" : 56,
+      "Three Point %" : 50,
+      "Free Throw %" : 81.6,
+      "Points Per Game" : 4
+    },
+    {
+      "Player Name" : "Jeff Pendergraph",
+      "Games Played" : 37,
+      "Field Goal %" : 48.4,
+      "Three Point %" : 50,
+      "Free Throw %" : 91.3,
+      "Points Per Game" : 3.9
+    },
+    {
+      "Player Name" : "Udonis Haslem",
+      "Games Played" : 75,
+      "Field Goal %" : 51.4,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 71.1,
+      "Points Per Game" : 3.9
+    },
+    {
+      "Player Name" : "Chris Johnson",
+      "Games Played" : 30,
+      "Field Goal %" : 64,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 61.8,
+      "Points Per Game" : 3.9
+    },
+    {
+      "Player Name" : "Xavier Henry",
+      "Games Played" : 50,
+      "Field Goal %" : 41,
+      "Three Point %" : 36.4,
+      "Free Throw %" : 63,
+      "Points Per Game" : 3.9
+    },
+    {
+      "Player Name" : "Luke Babbitt",
+      "Games Played" : 62,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 34.8,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 3.9
+    },
+    {
+      "Player Name" : "James Anderson",
+      "Games Played" : 39,
+      "Field Goal %" : 41.3,
+      "Three Point %" : 35,
+      "Free Throw %" : 85.7,
+      "Points Per Game" : 3.8
+    },
+    {
+      "Player Name" : "Victor Claver",
+      "Games Played" : 49,
+      "Field Goal %" : 39.2,
+      "Three Point %" : 28.7,
+      "Free Throw %" : 46.7,
+      "Points Per Game" : 3.8
+    },
+    {
+      "Player Name" : "Nando De Colo",
+      "Games Played" : 72,
+      "Field Goal %" : 43.6,
+      "Three Point %" : 37.8,
+      "Free Throw %" : 79.5,
+      "Points Per Game" : 3.8
+    },
+    {
+      "Player Name" : "Reggie Williams",
+      "Games Played" : 40,
+      "Field Goal %" : 43.2,
+      "Three Point %" : 30.6,
+      "Free Throw %" : 47.6,
+      "Points Per Game" : 3.7
+    },
+    {
+      "Player Name" : "Anthony Randolph",
+      "Games Played" : 39,
+      "Field Goal %" : 49.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 68.9,
+      "Points Per Game" : 3.7
+    },
+    {
+      "Player Name" : "Gustavo Ayon",
+      "Games Played" : 55,
+      "Field Goal %" : 55.1,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 40,
+      "Points Per Game" : 3.7
+    },
+    {
+      "Player Name" : "DeQuan Jones",
+      "Games Played" : 63,
+      "Field Goal %" : 43.6,
+      "Three Point %" : 25.7,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 3.7
+    },
+    {
+      "Player Name" : "Arnett Moultrie",
+      "Games Played" : 47,
+      "Field Goal %" : 58.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 64.3,
+      "Points Per Game" : 3.7
+    },
+    {
+      "Player Name" : "Chris Johnson",
+      "Games Played" : 8,
+      "Field Goal %" : 44,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 50,
+      "Points Per Game" : 3.6
+    },
+    {
+      "Player Name" : "Johan Petro",
+      "Games Played" : 31,
+      "Field Goal %" : 43.6,
+      "Three Point %" : 25,
+      "Free Throw %" : 91.7,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Mirza Teletovic",
+      "Games Played" : 53,
+      "Field Goal %" : 38.4,
+      "Three Point %" : 34.3,
+      "Free Throw %" : 81.8,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Brendan Haywood",
+      "Games Played" : 61,
+      "Field Goal %" : 43.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 45.5,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Donald Sloan",
+      "Games Played" : 23,
+      "Field Goal %" : 34.6,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 80,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Pablo Prigioni",
+      "Games Played" : 78,
+      "Field Goal %" : 45.5,
+      "Three Point %" : 39.6,
+      "Free Throw %" : 88,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Jamaal Tinsley",
+      "Games Played" : 66,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 30.7,
+      "Free Throw %" : 69.2,
+      "Points Per Game" : 3.5
+    },
+    {
+      "Player Name" : "Dahntay Jones",
+      "Games Played" : 78,
+      "Field Goal %" : 36.9,
+      "Three Point %" : 22.4,
+      "Free Throw %" : 77,
+      "Points Per Game" : 3.4
+    },
+    {
+      "Player Name" : "Luke Walton",
+      "Games Played" : 50,
+      "Field Goal %" : 39.2,
+      "Three Point %" : 29.9,
+      "Free Throw %" : 50,
+      "Points Per Game" : 3.4
+    },
+    {
+      "Player Name" : "Ryan Hollins",
+      "Games Played" : 60,
+      "Field Goal %" : 61.4,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 75,
+      "Points Per Game" : 3.4
+    },
+    {
+      "Player Name" : "Devin Ebanks",
+      "Games Played" : 19,
+      "Field Goal %" : 32.9,
+      "Three Point %" : 27.3,
+      "Free Throw %" : 78.6,
+      "Points Per Game" : 3.4
+    },
+    {
+      "Player Name" : "Drew Gooden",
+      "Games Played" : 16,
+      "Field Goal %" : 32.8,
+      "Three Point %" : 20,
+      "Free Throw %" : 68.8,
+      "Points Per Game" : 3.3
+    },
+    {
+      "Player Name" : "Earl Barron",
+      "Games Played" : 12,
+      "Field Goal %" : 35.3,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 42.9,
+      "Points Per Game" : 3.3
+    },
+    {
+      "Player Name" : "Doron Lamb",
+      "Games Played" : 47,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 37.8,
+      "Free Throw %" : 58.8,
+      "Points Per Game" : 3.3
+    },
+    {
+      "Player Name" : "Samardo Samuels",
+      "Games Played" : 18,
+      "Field Goal %" : 36.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 58.3,
+      "Points Per Game" : 3.2
+    },
+    {
+      "Player Name" : "Grant Hill",
+      "Games Played" : 29,
+      "Field Goal %" : 38.8,
+      "Three Point %" : 27.3,
+      "Free Throw %" : 58.3,
+      "Points Per Game" : 3.2
+    },
+    {
+      "Player Name" : "Royal Ivey",
+      "Games Played" : 53,
+      "Field Goal %" : 43.1,
+      "Three Point %" : 42,
+      "Free Throw %" : 56.3,
+      "Points Per Game" : 3.2
+    },
+    {
+      "Player Name" : "Viacheslav Kravtsov",
+      "Games Played" : 25,
+      "Field Goal %" : 71.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 29.7,
+      "Points Per Game" : 3.1
+    },
+    {
+      "Player Name" : "Richard Jefferson",
+      "Games Played" : 56,
+      "Field Goal %" : 45.6,
+      "Three Point %" : 31.1,
+      "Free Throw %" : 71.7,
+      "Points Per Game" : 3.1
+    },
+    {
+      "Player Name" : "Jeremy Lamb",
+      "Games Played" : 23,
+      "Field Goal %" : 35.3,
+      "Three Point %" : 30,
+      "Free Throw %" : 100,
+      "Points Per Game" : 3.1
+    },
+    {
+      "Player Name" : "Kevin Jones",
+      "Games Played" : 32,
+      "Field Goal %" : 40.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 60,
+      "Points Per Game" : 3
+    },
+    {
+      "Player Name" : "Juwan Howard",
+      "Games Played" : 7,
+      "Field Goal %" : 52.6,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 100,
+      "Points Per Game" : 3
+    },
+    {
+      "Player Name" : "Ronnie Brewer",
+      "Games Played" : 60,
+      "Field Goal %" : 35.4,
+      "Three Point %" : 30.3,
+      "Free Throw %" : 41,
+      "Points Per Game" : 3
+    },
+    {
+      "Player Name" : "Kendall Marshall",
+      "Games Played" : 48,
+      "Field Goal %" : 37.1,
+      "Three Point %" : 31.5,
+      "Free Throw %" : 57.1,
+      "Points Per Game" : 3
+    },
+    {
+      "Player Name" : "Kim English",
+      "Games Played" : 41,
+      "Field Goal %" : 37.5,
+      "Three Point %" : 28,
+      "Free Throw %" : 72.4,
+      "Points Per Game" : 2.9
+    },
+    {
+      "Player Name" : "Draymond Green",
+      "Games Played" : 79,
+      "Field Goal %" : 32.7,
+      "Three Point %" : 20.9,
+      "Free Throw %" : 81.8,
+      "Points Per Game" : 2.9
+    },
+    {
+      "Player Name" : "Chris Duhon",
+      "Games Played" : 46,
+      "Field Goal %" : 38.2,
+      "Three Point %" : 36.3,
+      "Free Throw %" : 46.2,
+      "Points Per Game" : 2.9
+    },
+    {
+      "Player Name" : "Hedo Turkoglu",
+      "Games Played" : 11,
+      "Field Goal %" : 26.4,
+      "Three Point %" : 4.2,
+      "Free Throw %" : 50,
+      "Points Per Game" : 2.9
+    },
+    {
+      "Player Name" : "Daequan Cook",
+      "Games Played" : 49,
+      "Field Goal %" : 30.5,
+      "Three Point %" : 28.6,
+      "Free Throw %" : 75,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Bernard James",
+      "Games Played" : 46,
+      "Field Goal %" : 51.5,
+      "Three Point %" : 0,
+      "Free Throw %" : 61,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Chris Douglas-Roberts",
+      "Games Played" : 6,
+      "Field Goal %" : 35.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 70,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Sam Young",
+      "Games Played" : 56,
+      "Field Goal %" : 39.2,
+      "Three Point %" : 30.8,
+      "Free Throw %" : 53.5,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Maalik Wayns",
+      "Games Played" : 27,
+      "Field Goal %" : 29.5,
+      "Three Point %" : 22.6,
+      "Free Throw %" : 89.5,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Hamed Haddadi",
+      "Games Played" : 30,
+      "Field Goal %" : 42.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 51.9,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Nolan Smith",
+      "Games Played" : 40,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 21.4,
+      "Free Throw %" : 71.4,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Aaron Gray",
+      "Games Played" : 42,
+      "Field Goal %" : 53.3,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 52.3,
+      "Points Per Game" : 2.8
+    },
+    {
+      "Player Name" : "Ronnie Price",
+      "Games Played" : 39,
+      "Field Goal %" : 32.5,
+      "Three Point %" : 25.6,
+      "Free Throw %" : 70.8,
+      "Points Per Game" : 2.7
+    },
+    {
+      "Player Name" : "Chuck Hayes",
+      "Games Played" : 74,
+      "Field Goal %" : 44.2,
+      "Three Point %" : 0,
+      "Free Throw %" : 62.5,
+      "Points Per Game" : 2.7
+    },
+    {
+      "Player Name" : "Aron Baynes",
+      "Games Played" : 16,
+      "Field Goal %" : 50,
+      "Three Point %" : 0,
+      "Free Throw %" : 58.3,
+      "Points Per Game" : 2.7
+    },
+    {
+      "Player Name" : "Nazr Mohammed",
+      "Games Played" : 63,
+      "Field Goal %" : 36.7,
+      "Three Point %" : 0,
+      "Free Throw %" : 72.3,
+      "Points Per Game" : 2.6
+    },
+    {
+      "Player Name" : "Timofey Mozgov",
+      "Games Played" : 41,
+      "Field Goal %" : 50.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 76.9,
+      "Points Per Game" : 2.6
+    },
+    {
+      "Player Name" : "Tony Wroten",
+      "Games Played" : 35,
+      "Field Goal %" : 38.4,
+      "Three Point %" : 25,
+      "Free Throw %" : 72.4,
+      "Points Per Game" : 2.6
+    },
+    {
+      "Player Name" : "Sasha Pavlovic",
+      "Games Played" : 39,
+      "Field Goal %" : 35.3,
+      "Three Point %" : 30,
+      "Free Throw %" : 16.7,
+      "Points Per Game" : 2.6
+    },
+    {
+      "Player Name" : "Joel Freeland",
+      "Games Played" : 51,
+      "Field Goal %" : 40.8,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 2.6
+    },
+    {
+      "Player Name" : "Lazar Hayward",
+      "Games Played" : 4,
+      "Field Goal %" : 20,
+      "Three Point %" : 0,
+      "Free Throw %" : 100,
+      "Points Per Game" : 2.5
+    },
+    {
+      "Player Name" : "Lance Thomas",
+      "Games Played" : 59,
+      "Field Goal %" : 50,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 72.9,
+      "Points Per Game" : 2.5
+    },
+    {
+      "Player Name" : "Kurt Thomas",
+      "Games Played" : 39,
+      "Field Goal %" : 54.2,
+      "Three Point %" : 100,
+      "Free Throw %" : 46.2,
+      "Points Per Game" : 2.5
+    },
+    {
+      "Player Name" : "Daniel Orton",
+      "Games Played" : 13,
+      "Field Goal %" : 46.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 52.9,
+      "Points Per Game" : 2.5
+    },
+    {
+      "Player Name" : "Jan Vesely",
+      "Games Played" : 50,
+      "Field Goal %" : 50,
+      "Three Point %" : 0,
+      "Free Throw %" : 30.8,
+      "Points Per Game" : 2.5
+    },
+    {
+      "Player Name" : "DJ White",
+      "Games Played" : 12,
+      "Field Goal %" : 52.2,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 55.6,
+      "Points Per Game" : 2.4
+    },
+    {
+      "Player Name" : "Festus Ezeli",
+      "Games Played" : 78,
+      "Field Goal %" : 43.8,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 53.1,
+      "Points Per Game" : 2.4
+    },
+    {
+      "Player Name" : "Ish Smith",
+      "Games Played" : 52,
+      "Field Goal %" : 35.2,
+      "Three Point %" : 29.6,
+      "Free Throw %" : 42.9,
+      "Points Per Game" : 2.4
+    },
+    {
+      "Player Name" : "Hasheem Thabeet",
+      "Games Played" : 66,
+      "Field Goal %" : 60.4,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 60.4,
+      "Points Per Game" : 2.4
+    },
+    {
+      "Player Name" : "Cory Higgins",
+      "Games Played" : 6,
+      "Field Goal %" : 31.6,
+      "Three Point %" : 20,
+      "Free Throw %" : 50,
+      "Points Per Game" : 2.3
+    },
+    {
+      "Player Name" : "Darius Miller",
+      "Games Played" : 52,
+      "Field Goal %" : 40.7,
+      "Three Point %" : 39.3,
+      "Free Throw %" : 100,
+      "Points Per Game" : 2.3
+    },
+    {
+      "Player Name" : "Perry Jones",
+      "Games Played" : 38,
+      "Field Goal %" : 39.4,
+      "Three Point %" : 0,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 2.3
+    },
+    {
+      "Player Name" : "Tyshawn Taylor",
+      "Games Played" : 38,
+      "Field Goal %" : 36.8,
+      "Three Point %" : 46.2,
+      "Free Throw %" : 55.6,
+      "Points Per Game" : 2.2
+    },
+    {
+      "Player Name" : "James White",
+      "Games Played" : 57,
+      "Field Goal %" : 43.1,
+      "Three Point %" : 34.1,
+      "Free Throw %" : 57.9,
+      "Points Per Game" : 2.2
+    },
+    {
+      "Player Name" : "Cole Aldrich",
+      "Games Played" : 45,
+      "Field Goal %" : 55,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 60,
+      "Points Per Game" : 2.2
+    },
+    {
+      "Player Name" : "Marquis Teague",
+      "Games Played" : 48,
+      "Field Goal %" : 38.1,
+      "Three Point %" : 17.4,
+      "Free Throw %" : 56.3,
+      "Points Per Game" : 2.1
+    },
+    {
+      "Player Name" : "Diante Garrett",
+      "Games Played" : 19,
+      "Field Goal %" : 32.7,
+      "Three Point %" : 20,
+      "Free Throw %" : 50,
+      "Points Per Game" : 2.1
+    },
+    {
+      "Player Name" : "Jared Cunningham",
+      "Games Played" : 8,
+      "Field Goal %" : 42.9,
+      "Three Point %" : 66.7,
+      "Free Throw %" : 100,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Kent Bazemore",
+      "Games Played" : 61,
+      "Field Goal %" : 37.1,
+      "Three Point %" : 29.4,
+      "Free Throw %" : 61.4,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Ben Hansbrough",
+      "Games Played" : 28,
+      "Field Goal %" : 33.3,
+      "Three Point %" : 26.1,
+      "Free Throw %" : 77.8,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Dominic McGuire",
+      "Games Played" : 26,
+      "Field Goal %" : 42.9,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 30,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Josh Selby",
+      "Games Played" : 10,
+      "Field Goal %" : 27.3,
+      "Three Point %" : 16.7,
+      "Free Throw %" : 63.6,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Jon Leuer",
+      "Games Played" : 28,
+      "Field Goal %" : 48.1,
+      "Three Point %" : 0,
+      "Free Throw %" : 46.2,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Henry Sims",
+      "Games Played" : 2,
+      "Field Goal %" : 66.7,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Jeremy Evans",
+      "Games Played" : 37,
+      "Field Goal %" : 61.4,
+      "Three Point %" : 0,
+      "Free Throw %" : 63.6,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Earl Watson",
+      "Games Played" : 48,
+      "Field Goal %" : 30.8,
+      "Three Point %" : 17.9,
+      "Free Throw %" : 68,
+      "Points Per Game" : 2
+    },
+    {
+      "Player Name" : "Ronny Turiaf",
+      "Games Played" : 65,
+      "Field Goal %" : 50.5,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 36.5,
+      "Points Per Game" : 1.9
+    },
+    {
+      "Player Name" : "Louis Amundson",
+      "Games Played" : 39,
+      "Field Goal %" : 39.5,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 33.3,
+      "Points Per Game" : 1.9
+    },
+    {
+      "Player Name" : "Charles Jenkins",
+      "Games Played" : 59,
+      "Field Goal %" : 40.5,
+      "Three Point %" : 50,
+      "Free Throw %" : 54.5,
+      "Points Per Game" : 1.9
+    },
+    {
+      "Player Name" : "Kwame Brown",
+      "Games Played" : 22,
+      "Field Goal %" : 45.9,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 36.8,
+      "Points Per Game" : 1.9
+    },
+    {
+      "Player Name" : "Julyan Stone",
+      "Games Played" : 4,
+      "Field Goal %" : 100,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 75,
+      "Points Per Game" : 1.8
+    },
+    {
+      "Player Name" : "Marcus Camby",
+      "Games Played" : 24,
+      "Field Goal %" : 32.1,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 42.1,
+      "Points Per Game" : 1.8
+    },
+    {
+      "Player Name" : "Josh Akognon",
+      "Games Played" : 3,
+      "Field Goal %" : 50,
+      "Three Point %" : 50,
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 1.7
+    },
+    {
+      "Player Name" : "Josh Harrellson",
+      "Games Played" : 6,
+      "Field Goal %" : 44.4,
+      "Three Point %" : 20,
+      "Free Throw %" : 50,
+      "Points Per Game" : 1.7
+    },
+    {
+      "Player Name" : "Tornike Shengelia",
+      "Games Played" : 19,
+      "Field Goal %" : 43.5,
+      "Three Point %" : 50,
+      "Free Throw %" : 56.3,
+      "Points Per Game" : 1.6
+    },
+    {
+      "Player Name" : "James Jones",
+      "Games Played" : 38,
+      "Field Goal %" : 34.4,
+      "Three Point %" : 30.2,
+      "Free Throw %" : 50,
+      "Points Per Game" : 1.6
+    },
+    {
+      "Player Name" : "DeAndre Liggins",
+      "Games Played" : 39,
+      "Field Goal %" : 44.7,
+      "Three Point %" : 36.8,
+      "Free Throw %" : 50,
+      "Points Per Game" : 1.5
+    },
+    {
+      "Player Name" : "Chris Quinn",
+      "Games Played" : 7,
+      "Field Goal %" : 25,
+      "Three Point %" : 0,
+      "Free Throw %" : 100,
+      "Points Per Game" : 1.4
+    },
+    {
+      "Player Name" : "Joel Anthony",
+      "Games Played" : 62,
+      "Field Goal %" : 51.5,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 60.7,
+      "Points Per Game" : 1.4
+    },
+    {
+      "Player Name" : "Malcolm Thomas",
+      "Games Played" : 12,
+      "Field Goal %" : 50,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 62.5,
+      "Points Per Game" : 1.3
+    },
+    {
+      "Player Name" : "Vladimir Radmanovic",
+      "Games Played" : 25,
+      "Field Goal %" : 30.2,
+      "Three Point %" : 18.5,
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 1.3
+    },
+    {
+      "Player Name" : "Quincy Miller",
+      "Games Played" : 7,
+      "Field Goal %" : 33.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 50,
+      "Points Per Game" : 1.3
+    },
+    {
+      "Player Name" : "Scott Machado",
+      "Games Played" : 6,
+      "Field Goal %" : 50,
+      "Three Point %" : 0,
+      "Free Throw %" : 100,
+      "Points Per Game" : 1.3
+    },
+    {
+      "Player Name" : "Robert Sacre",
+      "Games Played" : 32,
+      "Field Goal %" : 37.5,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 63.6,
+      "Points Per Game" : 1.3
+    },
+    {
+      "Player Name" : "Fab Melo",
+      "Games Played" : 6,
+      "Field Goal %" : 50,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 25,
+      "Points Per Game" : 1.2
+    },
+    {
+      "Player Name" : "Luke Zeller",
+      "Games Played" : 16,
+      "Field Goal %" : 34.6,
+      "Three Point %" : 20,
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 1.2
+    },
+    {
+      "Player Name" : "Jared Jeffries",
+      "Games Played" : 38,
+      "Field Goal %" : 29.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 52.2,
+      "Points Per Game" : 1.2
+    },
+    {
+      "Player Name" : "Jason Collins",
+      "Games Played" : 38,
+      "Field Goal %" : 31,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 71.9,
+      "Points Per Game" : 1.1
+    },
+    {
+      "Player Name" : "Jeremy Tyler",
+      "Games Played" : 21,
+      "Field Goal %" : 37.5,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 66.7,
+      "Points Per Game" : 1
+    },
+    {
+      "Player Name" : "Josh Childress",
+      "Games Played" : 14,
+      "Field Goal %" : 28.6,
+      "Three Point %" : 33.3,
+      "Free Throw %" : 50,
+      "Points Per Game" : 1
+    },
+    {
+      "Player Name" : "Tim Ohlbrecht",
+      "Games Played" : 3,
+      "Field Goal %" : 33.3,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 100,
+      "Points Per Game" : 1
+    },
+    {
+      "Player Name" : "DaJuan Summers",
+      "Games Played" : 2,
+      "Field Goal %" : 25,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 1
+    },
+    {
+      "Player Name" : "Kris Joseph",
+      "Games Played" : 10,
+      "Field Goal %" : 14.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 62.5,
+      "Points Per Game" : 0.9
+    },
+    {
+      "Player Name" : "Miles Plumlee",
+      "Games Played" : 14,
+      "Field Goal %" : 23.8,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 75,
+      "Points Per Game" : 0.9
+    },
+    {
+      "Player Name" : "Tyler Honeycutt",
+      "Games Played" : 9,
+      "Field Goal %" : 27.3,
+      "Three Point %" : 0,
+      "Free Throw %" : 100,
+      "Points Per Game" : 0.9
+    },
+    {
+      "Player Name" : "Kevin Murphy",
+      "Games Played" : 17,
+      "Field Goal %" : 25,
+      "Three Point %" : 20,
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0.9
+    },
+    {
+      "Player Name" : "Terrel Harris",
+      "Games Played" : 20,
+      "Field Goal %" : 14.8,
+      "Three Point %" : 0,
+      "Free Throw %" : 70,
+      "Points Per Game" : 0.8
+    },
+    {
+      "Player Name" : "DeSagana Diop",
+      "Games Played" : 22,
+      "Field Goal %" : 29.6,
+      "Three Point %" : 0,
+      "Free Throw %" : 0,
+      "Points Per Game" : 0.7
+    },
+    {
+      "Player Name" : "Chris Wright",
+      "Games Played" : 3,
+      "Field Goal %" : 50,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0.7
+    },
+    {
+      "Player Name" : "Dexter Pittman",
+      "Games Played" : 11,
+      "Field Goal %" : 36.4,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 0,
+      "Points Per Game" : 0.7
+    },
+    {
+      "Player Name" : "Jarvis Varnado",
+      "Games Played" : 13,
+      "Field Goal %" : 42.9,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 50,
+      "Points Per Game" : 0.6
+    },
+    {
+      "Player Name" : "Andris Biedrins",
+      "Games Played" : 53,
+      "Field Goal %" : 47.6,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 30.8,
+      "Points Per Game" : 0.5
+    },
+    {
+      "Player Name" : "Will Conroy",
+      "Games Played" : 4,
+      "Field Goal %" : 0,
+      "Three Point %" : 0,
+      "Free Throw %" : 50,
+      "Points Per Game" : 0.3
+    },
+    {
+      "Player Name" : "Joel Przybilla",
+      "Games Played" : 12,
+      "Field Goal %" : 25,
+      "Three Point %" : "N/A",
+      "Free Throw %" : 0,
+      "Points Per Game" : 0.2
+    },
+    {
+      "Player Name" : "Damion James",
+      "Games Played" : 2,
+      "Field Goal %" : "N/A",
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Darko Milicic",
+      "Games Played" : 1,
+      "Field Goal %" : 0,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Matt Carroll",
+      "Games Played" : 1,
+      "Field Goal %" : "N/A",
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Justin Dentmon",
+      "Games Played" : 2,
+      "Field Goal %" : 0,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Andrew Goudelock",
+      "Games Played" : 1,
+      "Field Goal %" : 0,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Darius Johnson-Odom",
+      "Games Played" : 4,
+      "Field Goal %" : 0,
+      "Three Point %" : 0,
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : "Solomon Jones",
+      "Games Played" : 2,
+      "Field Goal %" : 0,
+      "Three Point %" : "N/A",
+      "Free Throw %" : "N/A",
+      "Points Per Game" : 0
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    },
+    {
+      "Player Name" : null,
+      "Games Played" : null,
+      "Field Goal %" : null,
+      "Three Point %" : null,
+      "Free Throw %" : null,
+      "Points Per Game" : null
+    }
+  ]
+}
+```
