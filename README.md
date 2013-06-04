@@ -44,12 +44,14 @@ https://github.com/AGR89/test/blob/master/NBA-2012-2013-Players-Stats.json
 
 import do bazy:
 
-`mongoimport --db test --collection players --type json --file players.json --jsonArray`
+```
+mongoimport --db test --collection players --type json --file players.json --jsonArray
+```
 
 
 Ilu jest zawodników w lidze: 
 
-```json
+```
 db.players.count()
 477
 ```
