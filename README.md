@@ -55,13 +55,14 @@ db.players.count()
 ```
 
 Zawodnicy ze średnią punktów na mecz powyżej 25:
-```json
+```
 db.players.group( { 
 key: { name: 1, games: 1, PPG: 1 }
 , cond: { PPG: {$gt: 25} }
 , reduce: function ( curr, result ) { }
 , initial: {} } )
-
+```
+```json
 [
     {
 		"name" : "Carmelo Anthony",
