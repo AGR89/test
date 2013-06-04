@@ -36,5 +36,6 @@
     }
 ```
 
-* Oczyszczone JSONy:
+* Wynikowy plik .json :
+https://github.com/AGR89/test/blob/master/NBA-2012-2013-Players-Stats.json
 
