@@ -1,5 +1,6 @@
-## Statystyki NBA - Adam Grabowski
-------------------------------
+# Statystyki NBA 2012/2013
+
+### *Adam Grabowski*
 
 
 ## Co zostało zrobione?
