@@ -94,5 +94,115 @@ key: { name: 1, games: 1, PPG: 1 }
 ]
 ```
 
+Najlepiej wykonujący rzuty osobiste (powyżej 90% skuteczności):
+```
+db.players.group( { 
+key: { name: 1, games: 1, "FT%": 1 }
+, cond: { "FT%": {$gt: 90}, games: {$gt: 50} }
+, reduce: function ( curr, result ) { }
+, initial: {} } )
+```
 
+```json
+[
+	{
+		"name" : "Kevin Durant",
+		"games" : 81,
+		"FT%" : 90.5
+	},
+	{
+		"name" : "Wayne Ellington",
+		"games" : 78,
+		"FT%" : 90.7
+	},
+	{
+		"name" : "Toney Douglas",
+		"games" : 71,
+		"FT%" : 90.5
+	},
+	{
+		"name" : "Brian Roberts",
+		"games" : 78,
+		"FT%" : 90.9
+	},
+	{
+		"name" : "Steve Novak",
+		"games" : 81,
+		"FT%" : 90.9
+	},
+	{
+		"name" : "Roger Mason",
+		"games" : 69,
+		"FT%" : 90.7
+	},
+	{
+		"name" : "Darius Miller",
+		"games" : 52,
+		"FT%" : 100
+	}
+]
+```
 
+Najsłabiej wykonujący rzuty osobiste (poniżej 50% skuteczności):
+```
+db.players.group( { 
+key: { name: 1, games: 1, "FT%": 1 }
+, cond: { "FT%": {$lt: 50}, games: {$gt: 50} }
+, reduce: function ( curr, result ) { }
+, initial: {} } )
+```
+
+```json
+[
+	{
+		"name" : "Dwight Howard",
+		"games" : 76,
+		"FT%" : 49.2
+	},
+	{
+		"name" : "DeAndre Jordan",
+		"games" : 82,
+		"FT%" : 38.6
+	},
+	{
+		"name" : "Andre Drummond",
+		"games" : 60,
+		"FT%" : 37.1
+	},
+	{
+		"name" : "Lamar Odom",
+		"games" : 82,
+		"FT%" : 47.6
+	},
+	{
+		"name" : "Gustavo Ayon",
+		"games" : 55,
+		"FT%" : 40
+	},
+	{
+		"name" : "Brendan Haywood",
+		"games" : 61,
+		"FT%" : 45.5
+	},
+	{
+		"name" : "Ronnie Brewer",
+		"games" : 60,
+		"FT%" : 41
+	},
+	{
+		"name" : "Ish Smith",
+		"games" : 52,
+		"FT%" : 42.9
+	},
+	{
+		"name" : "Ronny Turiaf",
+		"games" : 65,
+		"FT%" : 36.5
+	},
+	{
+		"name" : "Andris Biedrins",
+		"games" : 53,
+		"FT%" : 30.8
+	}
+]
+```
