@@ -47,3 +47,49 @@ import do bazy:
 `mongoimport --db test --collection players --type json --file players.json --jsonArray`
 
 
+Ilu jest zawodników w lidze: 
+
+```json
+db.players.count()
+477
+```
+
+Zawodnicy ze średnią punktów na mecz powyżej 25:
+```json
+db.players.group( { 
+key: { name: 1, games: 1, PPG: 1 }
+, cond: { PPG: {$gt: 25} }
+, reduce: function ( curr, result ) { }
+, initial: {} } )
+
+[
+    {
+		"name" : "Carmelo Anthony",
+		"games" : 67,
+		"PPG" : 28.7
+	},
+	{
+		"name" : "Kevin Durant",
+		"games" : 81,
+		"PPG" : 28.1
+	},
+	{
+		"name" : "Kobe Bryant",
+		"games" : 78,
+		"PPG" : 27.3
+	},
+	{
+		"name" : "LeBron James",
+		"games" : 76,
+		"PPG" : 26.8
+	},
+	{
+		"name" : "James Harden",
+		"games" : 78,
+		"PPG" : 25.9
+	}
+]
+```
+
+
+
