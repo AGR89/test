@@ -40,3 +40,9 @@
 * Wynikowy plik .json :
 https://github.com/AGR89/test/blob/master/NBA-2012-2013-Players-Stats.json
 
+## Agregacje
+
+import do bazy:
+mongoimport --db test --collection players --type json --file players.json --jsonArray
+
+
